@@ -8,7 +8,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove_duplicates_from_sorted_array/)| [Java](./Algorithms/26. Remove Duplicates from Sorted Array.java)|Easy|
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [Java](./Algorithms/RemoveDuplicatesfromSortedArray.java)|Easy|
 
 
 ### LeetCode Shell

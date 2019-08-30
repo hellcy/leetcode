@@ -6,7 +6,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [Java](./Algorithms/RemoveDuplicatesfromSortedArray.java)|Easy|
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/){:target="_blank"}| [Java](./Algorithms/RemoveDuplicatesfromSortedArray.java)|Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)| [Java](./Algorithms/RemoveElement.java)|Easy|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)| [Java](./Algorithms/SearchInsertPosition.java)|Easy|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)| [Java](./Algorithms/MaximumSubarray.java)|Easy|

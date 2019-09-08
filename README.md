@@ -50,3 +50,51 @@ LeetCode
 |922|[Sort Array By Parity II](https://leetcode.com/problems/sort-array-by-parity-ii/)| [Java](./Algorithms/SortArrayByParityII.java)|Easy|
 |941|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)| [Java](./Algorithms/ValidMountainArray.java)|Easy|
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)| [Java](./Algorithms/SquaresofaSortedArray.java)|Easy|
+|1177|[Can Make Palindrome from Substring](https://leetcode.com/problems/can-make-palindrome-from-substring/)| [Java](./Algorithms/CanMakePalindromefromSubstring.java)|Medium|
+|1176|[Diet Plan Performance](https://leetcode.com/problems/Diet-Plan-Performance/)| [Java](./Algorithms/DietPlanPerformance.java)|Easy|
+|1175|[Prime Arrangements](https://leetcode.com/problems/prime-arrangements/)| [Java](./Algorithms/PrimeArrangements.java)|Easy|
+|1170|[Compare Strings by Frequency of the Smallest Character](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character/)| [Java](./Algorithms/CompareStringsbyFrequencyoftheSmallestCharacter.java)|Easy|
+|1160|[Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/)| [Java](./Algorithms/FindWordsThatCanBeFormedbyCharacters.java)|Easy|
+|1128|[Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/)| [Java](./Algorithms/NumberofEquivalentDominoPairs.java)|Easy|
+|1122|[Relative Sort Array](https://leetcode.com/problems/relative-sort-array/)| [Java](./Algorithms/RelativeSortArray.java)|Easy|
+|1089|[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)| [Java](./Algorithms/DuplicateZeros.java)|Easy|
+|1051|[Height Checker](https://leetcode.com/problems/height-checker/)| [Java](./Algorithms/HeightChecker.java)|Easy|
+|1018|[Binary Prefix Divisible By 5](https://leetcode.com/problems/binary-prefix-divisible-by-5/)| [Java](./Algorithms/BinaryPrefixDivisibleBy5.java)|Easy|
+|1013|[Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/)| [Java](./Algorithms/PartitionArrayIntoThreePartsWithEqualSum.java)|Easy|
+|1010|[Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)| [Java](./Algorithms/PairsofSongsWithTotalDurationsDivisibleby60.java)|Easy|
+|1002|[Find Common Characters](https://leetcode.com/problems/find-common-characters/)| [Java](./Algorithms/FindCommonCharacters.java)|Easy|
+|985|[Sum of Even Numbers After Queries](https://leetcode.com/problems/sum-of-even-numbers-after-queries/)| [Java](./Algorithms/SumofEvenNumbersAfterQueries.java)|Easy|
+|961|[N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)| [Java](./Algorithms/RepeatedElementinSize2NArray.java)|Easy|
+|953|[Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/)| [Java](./Algorithms/VerifyinganAlienDictionary.java)|Easy|
+|914|[X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/)| [Java](./Algorithms/XofaKindinaDeckofCards.java)|Easy|
+|884|[Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/)| [Java](./Algorithms/UncommonWordsfromTwoSentences.java)|Easy|
+|811|[Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/)| [Java](./Algorithms/SubdomainVisitCount.java)|Easy|
+|771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)| [Java](./Algorithms/JewelsandStones.java)|Easy|
+|762|[Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/)| [Java](./Algorithms/PrimeNumberofSetBitsinBinaryRepresentation.java)|Easy|
+|748|[Shortest Completing Word](https://leetcode.com/problems/shortest-completing-word/)| [Java](./Algorithms/ShortestCompletingWord.java)|Easy|
+|661|[Image Smoother](https://leetcode.com/problems/image-smoother/)| [Java](./Algorithms/ImageSmoother.java)|Easy|
+|645|[Set Mismatch](https://leetcode.com/problems/set-mismatch/)| [Java](./Algorithms/SetMismatch.java)|Easy|
+|599|[Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/)| [Java](./Algorithms/MinimumIndexSumofTwoLists.java)|Easy|
+|594|[Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/)| [Java](./Algorithms/LongestHarmoniousSubsequence.java)|Easy|
+|575|[Distribute Candies](https://leetcode.com/problems/distribute-candies/)| [Java](./Algorithms/DistributeCandies.java)|Easy|
+|500|[Keyboard Row](https://leetcode.com/problems/keyboard-row/)| [Java](./Algorithms/KeyboardRow.java)|Easy|
+|476|[Number Complement](https://leetcode.com/problems/number-complement/)| [Java](./Algorithms/NumberComplement.java)|Easy|
+|463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/)| [Java](./Algorithms/IslandPerimeter.java)|Easy|
+|461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)| [Java](./Algorithms/HammingDistance.java)|Easy|
+|409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/)| [Java](./Algorithms/LongestPalindrome.java)|Easy|
+|389|[Find the Difference](https://leetcode.com/problems/find-the-difference/)| [Java](./Algorithms/FindtheDifference.java)|Easy|
+|387|[First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)| [Java](./Algorithms/FirstUniqueCharacterinaString.java)|Easy|
+|350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)| [Java](./Algorithms/IntersectionofTwoArraysII.java)|Easy|
+|349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)| [Java](./Algorithms/IntersectionofTwoArrays.java)|Easy|
+|338|[Counting Bits](https://leetcode.com/problems/counting-bits/)| [Java](./Algorithms/CountingBits.java)|Medium|
+|299|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)| [Java](./Algorithms/BullsandCows.java)|Easy|
+|290|[Word Pattern](https://leetcode.com/problems/word-pattern/)| [Java](./Algorithms/WordPattern.java)|Easy|
+|201|[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)| [Java](./Algorithms/BitwiseANDofNumbersRange.java)|Medium|
+|191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)| [Java](./Algorithms/Numberof1Bits.java)|Easy|
+|190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/)| [Java](./Algorithms/ReverseBits.java)|Easy|
+|187|[Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)| [Java](./Algorithms/RepeatedDNASequences.java)|Medium|
+|136|[Single Number](https://leetcode.com/problems/single-number/)| [Java](./Algorithms/SingleNumber.java)|Easy|
+|15|[3Sum](https://leetcode.com/problems/3sum/)| [Java](./Algorithms/3Sum.java)|Medium|
+|11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)| [Java](./Algorithms/ContainerWithMostWater.java)|Medium|
+|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| [Java](./Algorithms/LongestSubstringWithoutRepeatingCharacters.java)|Medium|
+|912|[Sort](https://leetcode.com/problems/sort/)| [Java](./Algorithms/SortanArray.java)|Easy|

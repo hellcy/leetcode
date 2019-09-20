@@ -31,8 +31,8 @@ LeetCode
 |23|[Merge k Sorted Lists    ](https://leetcode.com/problems/merge-k-sorted-lists)|||36.1%|Hard|
 |24|[Swap Nodes in Pairs    ](https://leetcode.com/problems/swap-nodes-in-pairs)|||46.3%|Medium|
 |25|[Reverse Nodes in k-Group    ](https://leetcode.com/problems/reverse-nodes-in-k-group)|||37.9%|Hard|
-|26|[Remove Duplicates from Sorted Array    ](https://leetcode.com/problems/remove-duplicates-from-sorted-array)|||41.9%|Easy|
-|27|[Remove Element    ](https://leetcode.com/problems/remove-element)|||45.6%|Easy|
+|26|[Remove Duplicates from Sorted Array    ](https://leetcode.com/problems/remove-duplicates-from-sorted-array)||[Java](./Algorithms/RemoveDuplicatesfromSortedArray.java)|41.9%|Easy|
+|27|[Remove Element    ](https://leetcode.com/problems/remove-element)||[Java](./Algorithms/RemoveElement.java)|45.6%|Easy|
 |28|[Implement strStr()    ](https://leetcode.com/problems/implement-strstr)|||32.9%|Easy|
 |29|[Divide Two Integers    ](https://leetcode.com/problems/divide-two-integers)|||16.2%|Medium|
 |30|[Substring with Concatenation of All Words    ](https://leetcode.com/problems/substring-with-concatenation-of-all-words)|||24.1%|Hard|
@@ -40,7 +40,7 @@ LeetCode
 |32|[Longest Valid Parentheses    ](https://leetcode.com/problems/longest-valid-parentheses)|||26.3%|Hard|
 |33|[Search in Rotated Sorted Array    ](https://leetcode.com/problems/search-in-rotated-sorted-array)|||33.2%|Medium|
 |34|[Find First and Last Position of Element in Sorted Array    ](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array)|||34.2%|Medium|
-|35|[Search Insert Position    ](https://leetcode.com/problems/search-insert-position)|||41.2%|Easy|
+|35|[Search Insert Position    ](https://leetcode.com/problems/search-insert-position)||[Java](./Algorithms/SearchInsertPosition.java)|41.2%|Easy|
 |36|[Valid Sudoku    ](https://leetcode.com/problems/valid-sudoku)|||44.7%|Medium|
 |37|[Sudoku Solver    ](https://leetcode.com/problems/sudoku-solver)|||38.8%|Hard|
 |38|[Count and Say    ](https://leetcode.com/problems/count-and-say)|||41.8%|Easy|
@@ -58,7 +58,7 @@ LeetCode
 |50|[Pow(x, n)    ](https://leetcode.com/problems/powx-n)|||28.6%|Medium|
 |51|[N-Queens    ](https://leetcode.com/problems/n-queens)|||41.4%|Hard|
 |52|[N-Queens II    ](https://leetcode.com/problems/n-queens-ii)|||53.7%|Hard|
-|53|[Maximum Subarray    ](https://leetcode.com/problems/maximum-subarray)|||44.6%|Easy|
+|53|[Maximum Subarray    ](https://leetcode.com/problems/maximum-subarray)||[Java](./Algorithms/MaximumSubarray.java)|44.6%|Easy|
 |54|[Spiral Matrix    ](https://leetcode.com/problems/spiral-matrix)|||31.4%|Medium|
 |55|[Jump Game    ](https://leetcode.com/problems/jump-game)|||32.6%|Medium|
 |56|[Merge Intervals    ](https://leetcode.com/problems/merge-intervals)|||36.6%|Medium|
@@ -71,7 +71,7 @@ LeetCode
 |63|[Unique Paths II    ](https://leetcode.com/problems/unique-paths-ii)|||33.7%|Medium|
 |64|[Minimum Path Sum    ](https://leetcode.com/problems/minimum-path-sum)|||48.7%|Medium|
 |65|[Valid Number    ](https://leetcode.com/problems/valid-number)|||14.3%|Hard|
-|66|[Plus One    ](https://leetcode.com/problems/plus-one)|||41.7%|Easy|
+|66|[Plus One    ](https://leetcode.com/problems/plus-one)||[Java](./Algorithms/PlusOne.java)|41.7%|Easy|
 |67|[Add Binary    ](https://leetcode.com/problems/add-binary)|||40.6%|Easy|
 |68|[Text Justification    ](https://leetcode.com/problems/text-justification)|||24.4%|Hard|
 |69|[Sqrt(x)    ](https://leetcode.com/problems/sqrtx)|||32.1%|Easy|
@@ -123,11 +123,11 @@ LeetCode
 |115|[Distinct Subsequences    ](https://leetcode.com/problems/distinct-subsequences)|||35.8%|Hard|
 |116|[Populating Next Right Pointers in Each Node    ](https://leetcode.com/problems/populating-next-right-pointers-in-each-node)|||39.4%|Medium|
 |117|[Populating Next Right Pointers in Each Node II    ](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii)|||35.6%|Medium|
-|118|[Pascal's Triangle    ](https://leetcode.com/problems/pascals-triangle)|||47.9%|Easy|
-|119|[Pascal's Triangle II    ](https://leetcode.com/problems/pascals-triangle-ii)|||45.2%|Easy|
+|118|[Pascal's Triangle    ](https://leetcode.com/problems/pascals-triangle)||[Java](./Algorithms/RemoveDuplicatesfromSortedArray.java)|47.9%|Easy|
+|119|[Pascal's Triangle II    ](https://leetcode.com/problems/pascals-triangle-ii)||[Java](./Algorithms/Pascal'sTriangleII.java)|45.2%|Easy|
 |120|[Triangle    ](https://leetcode.com/problems/triangle)|||40.8%|Medium|
 |121|[Best Time to Buy and Sell Stock    ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)|||48.2%|Easy|
-|122|[Best Time to Buy and Sell Stock II    ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)|||53.1%|Easy|
+|122|[Best Time to Buy and Sell Stock II    ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)||[Java](./Algorithms/BestTimetoBuyandSellStockII.java)|53.1%|Easy|
 |123|[Best Time to Buy and Sell Stock III    ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii)|||34.8%|Hard|
 |124|[Binary Tree Maximum Path Sum    ](https://leetcode.com/problems/binary-tree-maximum-path-sum)|||31.0%|Hard|
 |125|[Valid Palindrome    ](https://leetcode.com/problems/valid-palindrome)|||32.4%|Easy|

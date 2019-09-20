@@ -5,8 +5,6 @@ path = 'C:/leetcode/python/LeetCode3.html'
 
 htmlfile = open(path, 'r', encoding='utf-8').read()
 
-# if has Chinese, apply decode()
-#html = urlopen("C:/leetcode/python/LeetCode.html").read().decode('utf-8')
 f = open("README.md", "a", encoding='utf-8')
 
 soup = BeautifulSoup(htmlfile, features='lxml')
@@ -20,7 +18,7 @@ for r in rows:
 		a = td.find('a', href=True)
 		if a != None:
 			f.write('|[' + td.get_text() + ']')
-			f.write('('+a['href']+')')
+			f.write('('+a['href']+')||')
 		else:
 			f.write('|' + td.get_text())
 	f.write('|\n')

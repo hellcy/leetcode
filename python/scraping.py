@@ -12,14 +12,15 @@ table = soup.find('table', {"class": "table table-striped"})
 rows = table.find_all('tr')
 for r in rows:
 	data = r.find_all('td', {"label": "[object Object]"})
-	name = "";
+	name = ""
 	for td in data:
 		a = td.find('a', href=True)
 		if td.get_text() == "" and a == None and name != "":
 			f.write('||[Java]')
 			f.write('(./Algorithms/' + name + '.java)')
+			name = ""
 			continue
-		elif td.get_text() == "" and a == None:
+		elif td.get_text() == "" and a == None and name == "":
 			continue
 		elif a != None and td.get_text() != "":
 			f.write('|[' + td.get_text().strip() + ']')
@@ -32,5 +33,6 @@ for r in rows:
 			f.write('(./Algorithms/' + name + '.java)')
 		else:
 			f.write('|' + td.get_text())
+			if td.get_text() == "Easy" or td.get_text() == "Medium" or td.get_text() == "Hard": break
 	f.write('|\n')
 f.close()

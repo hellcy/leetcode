@@ -8,7 +8,7 @@ LeetCode
 |---| ----- | ----------------- | -------- | ---------- | ---------- |
 |1|[Two Sum    ](https://leetcode.com/problems/two-sum)|||44.5%|Easy|
 |2|[Add Two Numbers    ](https://leetcode.com/problems/add-two-numbers)|||31.8%|Medium|
-|3|[Longest Substring Without Repeating Characters    ](https://leetcode.com/problems/longest-substring-without-repeating-characters)|||28.9%|Medium|
+|3|[Longest Substring Without Repeating Characters    ](https://leetcode.com/problems/longest-substring-without-repeating-characters)||[Java](./Algorithms/LongestSubstringWithoutRepeatingCharacters.java)|28.9%|Medium|
 |4|[Median of Two Sorted Arrays    ](https://leetcode.com/problems/median-of-two-sorted-arrays)|||27.3%|Hard|
 |5|[Longest Palindromic Substring    ](https://leetcode.com/problems/longest-palindromic-substring)|||27.9%|Medium|
 |6|[ZigZag Conversion    ](https://leetcode.com/problems/zigzag-conversion)|||33.3%|Medium|
@@ -16,11 +16,11 @@ LeetCode
 |8|[String to Integer (atoi)    ](https://leetcode.com/problems/string-to-integer-atoi)|||14.8%|Medium|
 |9|[Palindrome Number    ](https://leetcode.com/problems/palindrome-number)|||44.9%|Easy|
 |10|[Regular Expression Matching    ](https://leetcode.com/problems/regular-expression-matching)|||25.7%|Hard|
-|11|[Container With Most Water    ](https://leetcode.com/problems/container-with-most-water)|||46.7%|Medium|
+|11|[Container With Most Water    ](https://leetcode.com/problems/container-with-most-water)||[Java](./Algorithms/ContainerWithMostWater.java)|46.7%|Medium|
 |12|[Integer to Roman    ](https://leetcode.com/problems/integer-to-roman)|||52.1%|Medium|
 |13|[Roman to Integer    ](https://leetcode.com/problems/roman-to-integer)|||53.3%|Easy|
 |14|[Longest Common Prefix    ](https://leetcode.com/problems/longest-common-prefix)|||34.1%|Easy|
-|15|[3Sum    ](https://leetcode.com/problems/3sum)|||24.8%|Medium|
+|15|[3Sum    ](https://leetcode.com/problems/3sum)||[Java](./Algorithms/3Sum.java)|24.8%|Medium|
 |16|[3Sum Closest    ](https://leetcode.com/problems/3sum-closest)|||45.7%|Medium|
 |17|[Letter Combinations of a Phone Number    ](https://leetcode.com/problems/letter-combinations-of-a-phone-number)|||43.0%|Medium|
 |18|[4Sum    ](https://leetcode.com/problems/4sum)|||31.5%|Medium|
@@ -141,13 +141,13 @@ LeetCode
 |133|[Clone Graph    ](https://leetcode.com/problems/clone-graph)|||28.5%|Medium|
 |134|[Gas Station    ](https://leetcode.com/problems/gas-station)|||35.0%|Medium|
 |135|[Candy    ](https://leetcode.com/problems/candy)|||29.3%|Hard|
-|136|[Single Number    ](https://leetcode.com/problems/single-number)|||61.5%|Easy|
+|136|[Single Number    ](https://leetcode.com/problems/single-number)||[Java](./Algorithms/SingleNumber.java)|61.5%|Easy|
 |137|[Single Number II    ](https://leetcode.com/problems/single-number-ii)|||47.1%|Medium|
 |138|[Copy List with Random Pointer    ](https://leetcode.com/problems/copy-list-with-random-pointer)|||28.9%|Medium|
 |139|[Word Break    ](https://leetcode.com/problems/word-break)|||36.6%|Medium|
 |140|[Word Break II    ](https://leetcode.com/problems/word-break-ii)|||28.2%|Hard|
-|141|[Linked List Cycle    ](https://leetcode.com/problems/linked-list-cycle)|||38.2%|Easy|
-|142|[Linked List Cycle II    ](https://leetcode.com/problems/linked-list-cycle-ii)|||33.5%|Medium|
+|141|[Linked List Cycle    ](https://leetcode.com/problems/linked-list-cycle)||[Java](./Algorithms/LinkedListCycle.java)|38.2%|Easy|
+|142|[Linked List Cycle II    ](https://leetcode.com/problems/linked-list-cycle-ii)||[Java](./Algorithms/LinkedListCycleII.java)|33.5%|Medium|
 |143|[Reorder List    ](https://leetcode.com/problems/reorder-list)|||32.3%|Medium|
 |144|[Binary Tree Preorder Traversal    ](https://leetcode.com/problems/binary-tree-preorder-traversal)|||52.6%|Medium|
 |145|[Binary Tree Postorder Traversal    ](https://leetcode.com/problems/binary-tree-postorder-traversal)|||50.2%|Hard|
@@ -192,11 +192,11 @@ LeetCode
 |184|[Department Highest Salary    ](https://leetcode.com/problems/department-highest-salary)|||30.9%|Medium|
 |185|[Department Top Three Salaries    ](https://leetcode.com/problems/department-top-three-salaries)|||28.2%|Hard|
 |186|[Reverse Words in a String II    ](https://leetcode.com/problems/reverse-words-in-a-string-ii)|||39.3%|Medium|
-|187|[Repeated DNA Sequences    ](https://leetcode.com/problems/repeated-dna-sequences)|||36.9%|Medium|
+|187|[Repeated DNA Sequences    ](https://leetcode.com/problems/repeated-dna-sequences)||[Java](./Algorithms/RepeatedDNASequences.java)|36.9%|Medium|
 |188|[Best Time to Buy and Sell Stock IV    ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv)|||26.9%|Hard|
-|189|[Rotate Array    ](https://leetcode.com/problems/rotate-array)|||31.5%|Easy|
-|190|[Reverse Bits    ](https://leetcode.com/problems/reverse-bits)|||32.9%|Easy|
-|191|[Number of 1 Bits    ](https://leetcode.com/problems/number-of-1-bits)|||44.8%|Easy|
+|189|[Rotate Array    ](https://leetcode.com/problems/rotate-array)||[Java](./Algorithms/RotateArray.java)|31.5%|Easy|
+|190|[Reverse Bits    ](https://leetcode.com/problems/reverse-bits)||[Java](./Algorithms/ReverseBits.java)|32.9%|Easy|
+|191|[Number of 1 Bits    ](https://leetcode.com/problems/number-of-1-bits)||[Java](./Algorithms/Numberof1Bits.java)|44.8%|Easy|
 |192|[Word Frequency    ](https://leetcode.com/problems/word-frequency)|||26.8%|Medium|
 |193|[Valid Phone Numbers    ](https://leetcode.com/problems/valid-phone-numbers)|||25.4%|Easy|
 |194|[Transpose File    ](https://leetcode.com/problems/transpose-file)|||23.5%|Medium|
@@ -206,7 +206,7 @@ LeetCode
 |198|[House Robber    ](https://leetcode.com/problems/house-robber)|||41.3%|Easy|
 |199|[Binary Tree Right Side View    ](https://leetcode.com/problems/binary-tree-right-side-view)|||49.5%|Medium|
 |200|[Number of Islands    ](https://leetcode.com/problems/number-of-islands)|||42.9%|Medium|
-|201|[Bitwise AND of Numbers Range    ](https://leetcode.com/problems/bitwise-and-of-numbers-range)|||36.5%|Medium|
+|201|[Bitwise AND of Numbers Range    ](https://leetcode.com/problems/bitwise-and-of-numbers-range)||[Java](./Algorithms/BitwiseANDofNumbersRange.java)|36.5%|Medium|
 |202|[Happy Number    ](https://leetcode.com/problems/happy-number)|||46.6%|Easy|
 |203|[Remove Linked List Elements    ](https://leetcode.com/problems/remove-linked-list-elements)|||36.4%|Easy|
 |204|[Count Primes    ](https://leetcode.com/problems/count-primes)|||29.8%|Easy|
@@ -224,7 +224,7 @@ LeetCode
 |216|[Combination Sum III    ](https://leetcode.com/problems/combination-sum-iii)|||53.0%|Medium|
 |217|[Contains Duplicate    ](https://leetcode.com/problems/contains-duplicate)|||53.4%|Easy|
 |218|[The Skyline Problem    ](https://leetcode.com/problems/the-skyline-problem)|||32.4%|Hard|
-|219|[Contains Duplicate II    ](https://leetcode.com/problems/contains-duplicate-ii)|||36.0%|Easy|
+|219|[Contains Duplicate II    ](https://leetcode.com/problems/contains-duplicate-ii)||[Java](./Algorithms/ContainsDuplicateII.java)|36.0%|Easy|
 |220|[Contains Duplicate III    ](https://leetcode.com/problems/contains-duplicate-iii)|||20.1%|Medium|
 |221|[Maximal Square    ](https://leetcode.com/problems/maximal-square)|||34.1%|Medium|
 |222|[Count Complete Tree Nodes    ](https://leetcode.com/problems/count-complete-tree-nodes)|||36.9%|Medium|
@@ -273,7 +273,7 @@ LeetCode
 |265|[Paint House II    ](https://leetcode.com/problems/paint-house-ii)|||42.5%|Hard|
 |266|[Palindrome Permutation    ](https://leetcode.com/problems/palindrome-permutation)|||60.5%|Easy|
 |267|[Palindrome Permutation II    ](https://leetcode.com/problems/palindrome-permutation-ii)|||34.4%|Medium|
-|268|[Missing Number    ](https://leetcode.com/problems/missing-number)|||49.3%|Easy|
+|268|[Missing Number    ](https://leetcode.com/problems/missing-number)||[Java](./Algorithms/MissingNumber.java)|49.3%|Easy|
 |269|[Alien Dictionary    ](https://leetcode.com/problems/alien-dictionary)|||32.3%|Hard|
 |270|[Closest Binary Search Tree Value    ](https://leetcode.com/problems/closest-binary-search-tree-value)|||44.7%|Easy|
 |271|[Encode and Decode Strings    ](https://leetcode.com/problems/encode-and-decode-strings)|||27.9%|Medium|
@@ -288,14 +288,14 @@ LeetCode
 |280|[Wiggle Sort    ](https://leetcode.com/problems/wiggle-sort)|||61.7%|Medium|
 |281|[Zigzag Iterator    ](https://leetcode.com/problems/zigzag-iterator)|||56.7%|Medium|
 |282|[Expression Add Operators    ](https://leetcode.com/problems/expression-add-operators)|||33.6%|Hard|
-|283|[Move Zeroes    ](https://leetcode.com/problems/move-zeroes)|||55.2%|Easy|
+|283|[Move Zeroes    ](https://leetcode.com/problems/move-zeroes)||[Java](./Algorithms/MoveZeroes.java)|55.2%|Easy|
 |284|[Peeking Iterator    ](https://leetcode.com/problems/peeking-iterator)|||41.8%|Medium|
 |285|[Inorder Successor in BST    ](https://leetcode.com/problems/inorder-successor-in-bst)|||36.2%|Medium|
 |286|[Walls and Gates    ](https://leetcode.com/problems/walls-and-gates)|||50.6%|Medium|
 |287|[Find the Duplicate Number     ](https://leetcode.com/problems/find-the-duplicate-number)|||51.0%|Medium|
 |288|[Unique Word Abbreviation    ](https://leetcode.com/problems/unique-word-abbreviation)|||20.6%|Medium|
 |289|[Game of Life    ](https://leetcode.com/problems/game-of-life)|||47.9%|Medium|
-|290|[Word Pattern    ](https://leetcode.com/problems/word-pattern)|||35.6%|Easy|
+|290|[Word Pattern    ](https://leetcode.com/problems/word-pattern)||[Java](./Algorithms/WordPattern.java)|35.6%|Easy|
 |291|[Word Pattern II    ](https://leetcode.com/problems/word-pattern-ii)|||41.8%|Hard|
 |292|[Nim Game    ](https://leetcode.com/problems/nim-game)|||55.8%|Easy|
 |293|[Flip Game    ](https://leetcode.com/problems/flip-game)|||59.4%|Easy|
@@ -304,7 +304,7 @@ LeetCode
 |296|[Best Meeting Point    ](https://leetcode.com/problems/best-meeting-point)|||55.9%|Hard|
 |297|[Serialize and Deserialize Binary Tree    ](https://leetcode.com/problems/serialize-and-deserialize-binary-tree)|||42.6%|Hard|
 |298|[Binary Tree Longest Consecutive Sequence    ](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence)|||44.8%|Medium|
-|299|[Bulls and Cows    ](https://leetcode.com/problems/bulls-and-cows)|||40.4%|Easy|
+|299|[Bulls and Cows    ](https://leetcode.com/problems/bulls-and-cows)||[Java](./Algorithms/BullsandCows.java)|40.4%|Easy|
 |300|[Longest Increasing Subsequence    ](https://leetcode.com/problems/longest-increasing-subsequence)|||41.4%|Medium|
 |301|[Remove Invalid Parentheses    ](https://leetcode.com/problems/remove-invalid-parentheses)|||40.3%|Hard|
 |302|[Smallest Rectangle Enclosing Black Pixels    ](https://leetcode.com/problems/smallest-rectangle-enclosing-black-pixels)|||50.0%|Hard|
@@ -343,7 +343,7 @@ LeetCode
 |335|[Self Crossing    ](https://leetcode.com/problems/self-crossing)|||27.2%|Hard|
 |336|[Palindrome Pairs    ](https://leetcode.com/problems/palindrome-pairs)|||31.8%|Hard|
 |337|[House Robber III    ](https://leetcode.com/problems/house-robber-iii)|||48.9%|Medium|
-|338|[Counting Bits    ](https://leetcode.com/problems/counting-bits)|||65.7%|Medium|
+|338|[Counting Bits    ](https://leetcode.com/problems/counting-bits)||[Java](./Algorithms/CountingBits.java)|65.7%|Medium|
 |339|[Nested List Weight Sum    ](https://leetcode.com/problems/nested-list-weight-sum)|||69.7%|Easy|
 |340|[Longest Substring with At Most K Distinct Characters    ](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters)|||41.0%|Hard|
 |341|[Flatten Nested List Iterator    ](https://leetcode.com/problems/flatten-nested-list-iterator)|||49.3%|Medium|
@@ -354,8 +354,8 @@ LeetCode
 |346|[Moving Average from Data Stream    ](https://leetcode.com/problems/moving-average-from-data-stream)|||67.4%|Easy|
 |347|[Top K Frequent Elements    ](https://leetcode.com/problems/top-k-frequent-elements)|||56.6%|Medium|
 |348|[Design Tic-Tac-Toe    ](https://leetcode.com/problems/design-tic-tac-toe)|||51.0%|Medium|
-|349|[Intersection of Two Arrays    ](https://leetcode.com/problems/intersection-of-two-arrays)|||56.7%|Easy|
-|350|[Intersection of Two Arrays II    ](https://leetcode.com/problems/intersection-of-two-arrays-ii)|||49.0%|Easy|
+|349|[Intersection of Two Arrays    ](https://leetcode.com/problems/intersection-of-two-arrays)||[Java](./Algorithms/IntersectionofTwoArrays.java)|56.7%|Easy|
+|350|[Intersection of Two Arrays II    ](https://leetcode.com/problems/intersection-of-two-arrays-ii)||[Java](./Algorithms/IntersectionofTwoArraysII.java)|49.0%|Easy|
 |351|[Android Unlock Patterns    ](https://leetcode.com/problems/android-unlock-patterns)|||46.8%|Medium|
 |352|[Data Stream as Disjoint Intervals    ](https://leetcode.com/problems/data-stream-as-disjoint-intervals)|||44.2%|Hard|
 |353|[Design Snake Game    ](https://leetcode.com/problems/design-snake-game)|||31.6%|Medium|
@@ -392,9 +392,9 @@ LeetCode
 |384|[Shuffle an Array    ](https://leetcode.com/problems/shuffle-an-array)|||50.8%|Medium|
 |385|[Mini Parser    ](https://leetcode.com/problems/mini-parser)|||32.4%|Medium|
 |386|[Lexicographical Numbers    ](https://leetcode.com/problems/lexicographical-numbers)|||47.8%|Medium|
-|387|[First Unique Character in a String    ](https://leetcode.com/problems/first-unique-character-in-a-string)|||50.7%|Easy|
+|387|[First Unique Character in a String    ](https://leetcode.com/problems/first-unique-character-in-a-string)||[Java](./Algorithms/FirstUniqueCharacterinaString.java)|50.7%|Easy|
 |388|[Longest Absolute File Path    ](https://leetcode.com/problems/longest-absolute-file-path)|||39.8%|Medium|
-|389|[Find the Difference    ](https://leetcode.com/problems/find-the-difference)|||53.7%|Easy|
+|389|[Find the Difference    ](https://leetcode.com/problems/find-the-difference)||[Java](./Algorithms/FindtheDifference.java)|53.7%|Easy|
 |390|[Elimination Game    ](https://leetcode.com/problems/elimination-game)|||43.6%|Medium|
 |391|[Perfect Rectangle    ](https://leetcode.com/problems/perfect-rectangle)|||28.7%|Hard|
 |392|[Is Subsequence    ](https://leetcode.com/problems/is-subsequence)|||47.5%|Easy|
@@ -414,12 +414,12 @@ LeetCode
 |406|[Queue Reconstruction by Height    ](https://leetcode.com/problems/queue-reconstruction-by-height)|||61.0%|Medium|
 |407|[Trapping Rain Water II    ](https://leetcode.com/problems/trapping-rain-water-ii)|||40.0%|Hard|
 |408|[Valid Word Abbreviation    ](https://leetcode.com/problems/valid-word-abbreviation)|||29.9%|Easy|
-|409|[Longest Palindrome    ](https://leetcode.com/problems/longest-palindrome)|||48.7%|Easy|
+|409|[Longest Palindrome    ](https://leetcode.com/problems/longest-palindrome)||[Java](./Algorithms/LongestPalindrome.java)|48.7%|Easy|
 |410|[Split Array Largest Sum    ](https://leetcode.com/problems/split-array-largest-sum)|||42.9%|Hard|
 |411|[Minimum Unique Word Abbreviation    ](https://leetcode.com/problems/minimum-unique-word-abbreviation)|||35.3%|Hard|
 |412|[Fizz Buzz    ](https://leetcode.com/problems/fizz-buzz)|||60.1%|Easy|
 |413|[Arithmetic Slices    ](https://leetcode.com/problems/arithmetic-slices)|||56.4%|Medium|
-|414|[Third Maximum Number    ](https://leetcode.com/problems/third-maximum-number)|||29.5%|Easy|
+|414|[Third Maximum Number    ](https://leetcode.com/problems/third-maximum-number)||[Java](./Algorithms/ThirdMaximumNumber.java)|29.5%|Easy|
 |415|[Add Strings    ](https://leetcode.com/problems/add-strings)|||44.6%|Easy|
 |416|[Partition Equal Subset Sum    ](https://leetcode.com/problems/partition-equal-subset-sum)|||41.6%|Medium|
 |417|[Pacific Atlantic Water Flow    ](https://leetcode.com/problems/pacific-atlantic-water-flow)|||38.3%|Medium|
@@ -453,7 +453,7 @@ LeetCode
 |445|[Add Two Numbers II    ](https://leetcode.com/problems/add-two-numbers-ii)|||51.3%|Medium|
 |446|[Arithmetic Slices II - Subsequence    ](https://leetcode.com/problems/arithmetic-slices-ii-subsequence)|||31.0%|Hard|
 |447|[Number of Boomerangs    ](https://leetcode.com/problems/number-of-boomerangs)|||50.5%|Easy|
-|448|[Find All Numbers Disappeared in an Array    ](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array)|||54.2%|Easy|
+|448|[Find All Numbers Disappeared in an Array    ](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array)||[Java](./Algorithms/FindAllNumbersDisappearedinanArray.java)|54.2%|Easy|
 |449|[Serialize and Deserialize BST    ](https://leetcode.com/problems/serialize-and-deserialize-bst)|||48.7%|Medium|
 |450|[Delete Node in a BST    ](https://leetcode.com/problems/delete-node-in-a-bst)|||40.7%|Medium|
 |451|[Sort Characters By Frequency    ](https://leetcode.com/problems/sort-characters-by-frequency)|||57.3%|Medium|
@@ -466,9 +466,9 @@ LeetCode
 |458|[Poor Pigs    ](https://leetcode.com/problems/poor-pigs)|||46.2%|Hard|
 |459|[Repeated Substring Pattern    ](https://leetcode.com/problems/repeated-substring-pattern)|||40.5%|Easy|
 |460|[LFU Cache    ](https://leetcode.com/problems/lfu-cache)|||30.1%|Hard|
-|461|[Hamming Distance    ](https://leetcode.com/problems/hamming-distance)|||70.6%|Easy|
+|461|[Hamming Distance    ](https://leetcode.com/problems/hamming-distance)||[Java](./Algorithms/HammingDistance.java)|70.6%|Easy|
 |462|[Minimum Moves to Equal Array Elements II    ](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii)|||52.8%|Medium|
-|463|[Island Perimeter    ](https://leetcode.com/problems/island-perimeter)|||61.7%|Easy|
+|463|[Island Perimeter    ](https://leetcode.com/problems/island-perimeter)||[Java](./Algorithms/IslandPerimeter.java)|61.7%|Easy|
 |464|[Can I Win    ](https://leetcode.com/problems/can-i-win)|||27.9%|Medium|
 |465|[Optimal Account Balancing    ](https://leetcode.com/problems/optimal-account-balancing)|||44.0%|Hard|
 |466|[Count The Repetitions    ](https://leetcode.com/problems/count-the-repetitions)|||27.5%|Hard|
@@ -481,7 +481,7 @@ LeetCode
 |473|[Matchsticks to Square    ](https://leetcode.com/problems/matchsticks-to-square)|||36.5%|Medium|
 |474|[Ones and Zeroes    ](https://leetcode.com/problems/ones-and-zeroes)|||40.6%|Medium|
 |475|[Heaters    ](https://leetcode.com/problems/heaters)|||32.3%|Easy|
-|476|[Number Complement    ](https://leetcode.com/problems/number-complement)|||62.7%|Easy|
+|476|[Number Complement    ](https://leetcode.com/problems/number-complement)||[Java](./Algorithms/NumberComplement.java)|62.7%|Easy|
 |477|[Total Hamming Distance    ](https://leetcode.com/problems/total-hamming-distance)|||49.6%|Medium|
 |478|[Generate Random Point in a Circle    ](https://leetcode.com/problems/generate-random-point-in-a-circle)|||37.6%|Medium|
 |479|[Largest Palindrome Product    ](https://leetcode.com/problems/largest-palindrome-product)|||27.8%|Hard|
@@ -490,7 +490,7 @@ LeetCode
 |482|[License Key Formatting    ](https://leetcode.com/problems/license-key-formatting)|||41.5%|Easy|
 |483|[Smallest Good Base    ](https://leetcode.com/problems/smallest-good-base)|||34.4%|Hard|
 |484|[Find Permutation    ](https://leetcode.com/problems/find-permutation)|||58.6%|Medium|
-|485|[Max Consecutive Ones    ](https://leetcode.com/problems/max-consecutive-ones)|||55.5%|Easy|
+|485|[Max Consecutive Ones    ](https://leetcode.com/problems/max-consecutive-ones)||[Java](./Algorithms/MaxConsecutiveOnes.java)|55.5%|Easy|
 |486|[Predict the Winner    ](https://leetcode.com/problems/predict-the-winner)|||47.1%|Medium|
 |487|[Max Consecutive Ones II    ](https://leetcode.com/problems/max-consecutive-ones-ii)|||47.3%|Medium|
 |488|[Zuma Game    ](https://leetcode.com/problems/zuma-game)|||39.8%|Hard|
@@ -505,7 +505,7 @@ LeetCode
 |497|[Random Point in Non-overlapping Rectangles    ](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles)|||36.2%|Medium|
 |498|[Diagonal Traverse    ](https://leetcode.com/problems/diagonal-traverse)|||45.9%|Medium|
 |499|[The Maze III    ](https://leetcode.com/problems/the-maze-iii)|||38.2%|Hard|
-|500|[Keyboard Row    ](https://leetcode.com/problems/keyboard-row)|||62.8%|Easy|
+|500|[Keyboard Row    ](https://leetcode.com/problems/keyboard-row)||[Java](./Algorithms/KeyboardRow.java)|62.8%|Easy|
 |501|[Find Mode in Binary Search Tree    ](https://leetcode.com/problems/find-mode-in-binary-search-tree)|||40.2%|Easy|
 |502|[IPO    ](https://leetcode.com/problems/ipo)|||38.5%|Hard|
 |503|[Next Greater Element II    ](https://leetcode.com/problems/next-greater-element-ii)|||52.0%|Medium|
@@ -514,7 +514,7 @@ LeetCode
 |506|[Relative Ranks    ](https://leetcode.com/problems/relative-ranks)|||48.9%|Easy|
 |507|[Perfect Number    ](https://leetcode.com/problems/perfect-number)|||34.9%|Easy|
 |508|[Most Frequent Subtree Sum    ](https://leetcode.com/problems/most-frequent-subtree-sum)|||55.5%|Medium|
-|509|[Fibonacci Number    ](https://leetcode.com/problems/fibonacci-number)|||66.7%|Easy|
+|509|[Fibonacci Number    ](https://leetcode.com/problems/fibonacci-number)||[Java](./Algorithms/FibonacciNumber.java)|66.7%|Easy|
 |510|[Inorder Successor in BST II    ](https://leetcode.com/problems/inorder-successor-in-bst-ii)|||54.4%|Medium|
 |511|[Game Play Analysis I    ](https://leetcode.com/problems/game-play-analysis-i)|||75.7%|Easy|
 |512|[Game Play Analysis II    ](https://leetcode.com/problems/game-play-analysis-ii)|||54.5%|Easy|
@@ -537,7 +537,7 @@ LeetCode
 |529|[Minesweeper    ](https://leetcode.com/problems/minesweeper)|||54.4%|Medium|
 |530|[Minimum Absolute Difference in BST    ](https://leetcode.com/problems/minimum-absolute-difference-in-bst)|||51.4%|Easy|
 |531|[Lonely Pixel I    ](https://leetcode.com/problems/lonely-pixel-i)|||57.9%|Medium|
-|532|[K-diff Pairs in an Array    ](https://leetcode.com/problems/k-diff-pairs-in-an-array)|||30.3%|Easy|
+|532|[K-diff Pairs in an Array    ](https://leetcode.com/problems/k-diff-pairs-in-an-array)||[Java](./Algorithms/K-diffPairsinanArray.java)|30.3%|Easy|
 |533|[Lonely Pixel II    ](https://leetcode.com/problems/lonely-pixel-ii)|||46.6%|Medium|
 |534|[Game Play Analysis III    ](https://leetcode.com/problems/game-play-analysis-iii)|||65.3%|Medium|
 |535|[Encode and Decode TinyURL    ](https://leetcode.com/problems/encode-and-decode-tinyurl)|||77.6%|Medium|
@@ -566,12 +566,12 @@ LeetCode
 |558|[Quad Tree Intersection    ](https://leetcode.com/problems/quad-tree-intersection)|||42.0%|Easy|
 |559|[Maximum Depth of N-ary Tree    ](https://leetcode.com/problems/maximum-depth-of-n-ary-tree)|||66.2%|Easy|
 |560|[Subarray Sum Equals K    ](https://leetcode.com/problems/subarray-sum-equals-k)|||42.9%|Medium|
-|561|[Array Partition I    ](https://leetcode.com/problems/array-partition-i)|||70.0%|Easy|
+|561|[Array Partition I    ](https://leetcode.com/problems/array-partition-i)||[Java](./Algorithms/ArrayPartitionI.java)|70.0%|Easy|
 |562|[Longest Line of Consecutive One in Matrix    ](https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix)|||44.3%|Medium|
 |563|[Binary Tree Tilt    ](https://leetcode.com/problems/binary-tree-tilt)|||47.2%|Easy|
 |564|[Find the Closest Palindrome    ](https://leetcode.com/problems/find-the-closest-palindrome)|||19.1%|Hard|
 |565|[Array Nesting    ](https://leetcode.com/problems/array-nesting)|||53.6%|Medium|
-|566|[Reshape the Matrix    ](https://leetcode.com/problems/reshape-the-matrix)|||59.3%|Easy|
+|566|[Reshape the Matrix    ](https://leetcode.com/problems/reshape-the-matrix)||[Java](./Algorithms/ReshapetheMatrix.java)|59.3%|Easy|
 |567|[Permutation in String    ](https://leetcode.com/problems/permutation-in-string)|||39.2%|Medium|
 |568|[Maximum Vacation Days    ](https://leetcode.com/problems/maximum-vacation-days)|||38.6%|Hard|
 |569|[Median Employee Salary    ](https://leetcode.com/problems/median-employee-salary)|||49.9%|Hard|
@@ -580,13 +580,13 @@ LeetCode
 |572|[Subtree of Another Tree    ](https://leetcode.com/problems/subtree-of-another-tree)|||42.3%|Easy|
 |573|[Squirrel Simulation    ](https://leetcode.com/problems/squirrel-simulation)|||54.5%|Medium|
 |574|[Winning Candidate    ](https://leetcode.com/problems/winning-candidate)|||37.7%|Medium|
-|575|[Distribute Candies    ](https://leetcode.com/problems/distribute-candies)|||60.1%|Easy|
+|575|[Distribute Candies    ](https://leetcode.com/problems/distribute-candies)||[Java](./Algorithms/DistributeCandies.java)|60.1%|Easy|
 |576|[Out of Boundary Paths    ](https://leetcode.com/problems/out-of-boundary-paths)|||32.9%|Medium|
 |577|[Employee Bonus    ](https://leetcode.com/problems/employee-bonus)|||61.2%|Easy|
 |578|[Get Highest Answer Rate Question    ](https://leetcode.com/problems/get-highest-answer-rate-question)|||35.5%|Medium|
 |579|[Find Cumulative Salary of an Employee    ](https://leetcode.com/problems/find-cumulative-salary-of-an-employee)|||34.8%|Hard|
 |580|[Count Student Number in Departments    ](https://leetcode.com/problems/count-student-number-in-departments)|||43.7%|Medium|
-|581|[Shortest Unsorted Continuous Subarray    ](https://leetcode.com/problems/shortest-unsorted-continuous-subarray)|||30.5%|Easy|
+|581|[Shortest Unsorted Continuous Subarray    ](https://leetcode.com/problems/shortest-unsorted-continuous-subarray)||[Java](./Algorithms/ShortestUnsortedContinuousSubarray.java)|30.5%|Easy|
 |582|[Kill Process    ](https://leetcode.com/problems/kill-process)|||57.3%|Medium|
 |583|[Delete Operation for Two Strings    ](https://leetcode.com/problems/delete-operation-for-two-strings)|||45.7%|Medium|
 |584|[Find Customer Referee    ](https://leetcode.com/problems/find-customer-referee)|||68.5%|Easy|
@@ -599,18 +599,18 @@ LeetCode
 |591|[Tag Validator    ](https://leetcode.com/problems/tag-validator)|||33.4%|Hard|
 |592|[Fraction Addition and Subtraction    ](https://leetcode.com/problems/fraction-addition-and-subtraction)|||47.5%|Medium|
 |593|[Valid Square    ](https://leetcode.com/problems/valid-square)|||40.9%|Medium|
-|594|[Longest Harmonious Subsequence    ](https://leetcode.com/problems/longest-harmonious-subsequence)|||44.6%|Easy|
+|594|[Longest Harmonious Subsequence    ](https://leetcode.com/problems/longest-harmonious-subsequence)||[Java](./Algorithms/LongestHarmoniousSubsequence.java)|44.6%|Easy|
 |595|[Big Countries    ](https://leetcode.com/problems/big-countries)|||74.7%|Easy|
 |596|[Classes More Than 5 Students    ](https://leetcode.com/problems/classes-more-than-5-students)|||36.4%|Easy|
 |597|[Friend Requests I: Overall Acceptance Rate    ](https://leetcode.com/problems/friend-requests-i-overall-acceptance-rate)|||40.1%|Easy|
 |598|[Range Addition II    ](https://leetcode.com/problems/range-addition-ii)|||49.0%|Easy|
-|599|[Minimum Index Sum of Two Lists    ](https://leetcode.com/problems/minimum-index-sum-of-two-lists)|||48.7%|Easy|
+|599|[Minimum Index Sum of Two Lists    ](https://leetcode.com/problems/minimum-index-sum-of-two-lists)||[Java](./Algorithms/MinimumIndexSumofTwoLists.java)|48.7%|Easy|
 |600|[Non-negative Integers without Consecutive Ones    ](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones)|||33.2%|Hard|
 |601|[Human Traffic of Stadium    ](https://leetcode.com/problems/human-traffic-of-stadium)|||37.5%|Hard|
 |602|[Friend Requests II: Who Has the Most Friends    ](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends)|||46.3%|Medium|
 |603|[Consecutive Available Seats    ](https://leetcode.com/problems/consecutive-available-seats)|||59.6%|Easy|
 |604|[Design Compressed String Iterator    ](https://leetcode.com/problems/design-compressed-string-iterator)|||35.4%|Easy|
-|605|[Can Place Flowers    ](https://leetcode.com/problems/can-place-flowers)|||31.3%|Easy|
+|605|[Can Place Flowers    ](https://leetcode.com/problems/can-place-flowers)||[Java](./Algorithms/CanPlaceFlowers.java)|31.3%|Easy|
 |606|[Construct String from Binary Tree    ](https://leetcode.com/problems/construct-string-from-binary-tree)|||52.2%|Easy|
 |607|[Sales Person    ](https://leetcode.com/problems/sales-person)|||58.3%|Easy|
 |608|[Tree Node    ](https://leetcode.com/problems/tree-node)|||60.1%|Medium|
@@ -648,9 +648,9 @@ LeetCode
 |640|[Solve the Equation    ](https://leetcode.com/problems/solve-the-equation)|||40.8%|Medium|
 |641|[Design Circular Deque    ](https://leetcode.com/problems/design-circular-deque)|||50.0%|Medium|
 |642|[Design Search Autocomplete System    ](https://leetcode.com/problems/design-search-autocomplete-system)|||39.8%|Hard|
-|643|[Maximum Average Subarray I    ](https://leetcode.com/problems/maximum-average-subarray-i)|||40.1%|Easy|
+|643|[Maximum Average Subarray I    ](https://leetcode.com/problems/maximum-average-subarray-i)||[Java](./Algorithms/MaximumAverageSubarrayI.java)|40.1%|Easy|
 |644|[Maximum Average Subarray II    ](https://leetcode.com/problems/maximum-average-subarray-ii)|||29.7%|Hard|
-|645|[Set Mismatch    ](https://leetcode.com/problems/set-mismatch)|||41.1%|Easy|
+|645|[Set Mismatch    ](https://leetcode.com/problems/set-mismatch)||[Java](./Algorithms/SetMismatch.java)|41.1%|Easy|
 |646|[Maximum Length of Pair Chain    ](https://leetcode.com/problems/maximum-length-of-pair-chain)|||49.5%|Medium|
 |647|[Palindromic Substrings    ](https://leetcode.com/problems/palindromic-substrings)|||57.9%|Medium|
 |648|[Replace Words    ](https://leetcode.com/problems/replace-words)|||53.2%|Medium|
@@ -666,11 +666,11 @@ LeetCode
 |658|[Find K Closest Elements    ](https://leetcode.com/problems/find-k-closest-elements)|||38.7%|Medium|
 |659|[Split Array into Consecutive Subsequences    ](https://leetcode.com/problems/split-array-into-consecutive-subsequences)|||41.4%|Medium|
 |660|[Remove 9    ](https://leetcode.com/problems/remove-9)|||52.6%|Hard|
-|661|[Image Smoother    ](https://leetcode.com/problems/image-smoother)|||49.4%|Easy|
+|661|[Image Smoother    ](https://leetcode.com/problems/image-smoother)||[Java](./Algorithms/ImageSmoother.java)|49.4%|Easy|
 |662|[Maximum Width of Binary Tree    ](https://leetcode.com/problems/maximum-width-of-binary-tree)|||39.5%|Medium|
 |663|[Equal Tree Partition    ](https://leetcode.com/problems/equal-tree-partition)|||38.5%|Medium|
 |664|[Strange Printer    ](https://leetcode.com/problems/strange-printer)|||37.7%|Hard|
-|665|[Non-decreasing Array    ](https://leetcode.com/problems/non-decreasing-array)|||19.5%|Easy|
+|665|[Non-decreasing Array    ](https://leetcode.com/problems/non-decreasing-array)||[Java](./Algorithms/Non-decreasingArray.java)|19.5%|Easy|
 |666|[Path Sum IV    ](https://leetcode.com/problems/path-sum-iv)|||53.3%|Medium|
 |667|[Beautiful Arrangement II    ](https://leetcode.com/problems/beautiful-arrangement-ii)|||52.6%|Medium|
 |668|[Kth Smallest Number in Multiplication Table    ](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table)|||43.0%|Hard|
@@ -679,7 +679,7 @@ LeetCode
 |671|[Second Minimum Node In a Binary Tree    ](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree)|||43.1%|Easy|
 |672|[Bulb Switcher II    ](https://leetcode.com/problems/bulb-switcher-ii)|||50.3%|Medium|
 |673|[Number of Longest Increasing Subsequence    ](https://leetcode.com/problems/number-of-longest-increasing-subsequence)|||34.2%|Medium|
-|674|[Longest Continuous Increasing Subsequence    ](https://leetcode.com/problems/longest-continuous-increasing-subsequence)|||44.8%|Easy|
+|674|[Longest Continuous Increasing Subsequence    ](https://leetcode.com/problems/longest-continuous-increasing-subsequence)||[Java](./Algorithms/LongestContinuousIncreasingSubsequence.java)|44.8%|Easy|
 |675|[Cut Off Trees for Golf Event    ](https://leetcode.com/problems/cut-off-trees-for-golf-event)|||32.1%|Hard|
 |676|[Implement Magic Dictionary    ](https://leetcode.com/problems/implement-magic-dictionary)|||52.2%|Medium|
 |677|[Map Sum Pairs    ](https://leetcode.com/problems/map-sum-pairs)|||52.2%|Medium|
@@ -702,7 +702,7 @@ LeetCode
 |694|[Number of Distinct Islands    ](https://leetcode.com/problems/number-of-distinct-islands)|||52.4%|Medium|
 |695|[Max Area of Island    ](https://leetcode.com/problems/max-area-of-island)|||58.8%|Medium|
 |696|[Count Binary Substrings    ](https://leetcode.com/problems/count-binary-substrings)|||54.2%|Easy|
-|697|[Degree of an Array    ](https://leetcode.com/problems/degree-of-an-array)|||51.4%|Easy|
+|697|[Degree of an Array    ](https://leetcode.com/problems/degree-of-an-array)||[Java](./Algorithms/DegreeofanArray.java)|51.4%|Easy|
 |698|[Partition to K Equal Sum Subsets    ](https://leetcode.com/problems/partition-to-k-equal-sum-subsets)|||43.5%|Medium|
 |699|[Falling Squares    ](https://leetcode.com/problems/falling-squares)|||40.5%|Hard|
 |700|[Search in a Binary Search Tree    ](https://leetcode.com/problems/search-in-a-binary-search-tree)|||69.3%|Easy|
@@ -722,14 +722,14 @@ LeetCode
 |714|[Best Time to Buy and Sell Stock with Transaction Fee    ](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee)|||51.6%|Medium|
 |715|[Range Module    ](https://leetcode.com/problems/range-module)|||36.4%|Hard|
 |716|[Max Stack    ](https://leetcode.com/problems/max-stack)|||41.0%|Easy|
-|717|[1-bit and 2-bit Characters    ](https://leetcode.com/problems/1-bit-and-2-bit-characters)|||49.2%|Easy|
+|717|[1-bit and 2-bit Characters    ](https://leetcode.com/problems/1-bit-and-2-bit-characters)||[Java](./Algorithms/1-bitand2-bitCharacters.java)|49.2%|Easy|
 |718|[Maximum Length of Repeated Subarray    ](https://leetcode.com/problems/maximum-length-of-repeated-subarray)|||47.3%|Medium|
 |719|[Find K-th Smallest Pair Distance    ](https://leetcode.com/problems/find-k-th-smallest-pair-distance)|||29.9%|Hard|
 |720|[Longest Word in Dictionary    ](https://leetcode.com/problems/longest-word-in-dictionary)|||45.8%|Easy|
 |721|[Accounts Merge    ](https://leetcode.com/problems/accounts-merge)|||42.7%|Medium|
 |722|[Remove Comments    ](https://leetcode.com/problems/remove-comments)|||31.8%|Medium|
 |723|[Candy Crush    ](https://leetcode.com/problems/candy-crush)|||64.6%|Medium|
-|724|[Find Pivot Index    ](https://leetcode.com/problems/find-pivot-index)|||41.9%|Easy|
+|724|[Find Pivot Index    ](https://leetcode.com/problems/find-pivot-index)||[Java](./Algorithms/FindPivotIndex.java)|41.9%|Easy|
 |725|[Split Linked List in Parts    ](https://leetcode.com/problems/split-linked-list-in-parts)|||49.8%|Medium|
 |726|[Number of Atoms    ](https://leetcode.com/problems/number-of-atoms)|||45.7%|Hard|
 |727|[Minimum Window Subsequence    ](https://leetcode.com/problems/minimum-window-subsequence)|||38.4%|Hard|
@@ -751,9 +751,9 @@ LeetCode
 |743|[Network Delay Time    ](https://leetcode.com/problems/network-delay-time)|||43.9%|Medium|
 |744|[Find Smallest Letter Greater Than Target    ](https://leetcode.com/problems/find-smallest-letter-greater-than-target)|||44.5%|Easy|
 |745|[Prefix and Suffix Search    ](https://leetcode.com/problems/prefix-and-suffix-search)|||31.7%|Hard|
-|746|[Min Cost Climbing Stairs    ](https://leetcode.com/problems/min-cost-climbing-stairs)|||48.1%|Easy|
-|747|[Largest Number At Least Twice of Others    ](https://leetcode.com/problems/largest-number-at-least-twice-of-others)|||40.9%|Easy|
-|748|[Shortest Completing Word    ](https://leetcode.com/problems/shortest-completing-word)|||55.2%|Easy|
+|746|[Min Cost Climbing Stairs    ](https://leetcode.com/problems/min-cost-climbing-stairs)||[Java](./Algorithms/MinCostClimbingStairs.java)|48.1%|Easy|
+|747|[Largest Number At Least Twice of Others    ](https://leetcode.com/problems/largest-number-at-least-twice-of-others)||[Java](./Algorithms/LargestNumberAtLeastTwiceofOthers.java)|40.9%|Easy|
+|748|[Shortest Completing Word    ](https://leetcode.com/problems/shortest-completing-word)||[Java](./Algorithms/ShortestCompletingWord.java)|55.2%|Easy|
 |749|[Contain Virus    ](https://leetcode.com/problems/contain-virus)|||41.6%|Hard|
 |750|[Number Of Corner Rectangles    ](https://leetcode.com/problems/number-of-corner-rectangles)|||65.3%|Medium|
 |751|[IP to CIDR    ](https://leetcode.com/problems/ip-to-cidr)|||60.6%|Easy|
@@ -767,16 +767,16 @@ LeetCode
 |759|[Employee Free Time    ](https://leetcode.com/problems/employee-free-time)|||62.6%|Hard|
 |760|[Find Anagram Mappings    ](https://leetcode.com/problems/find-anagram-mappings)|||79.7%|Easy|
 |761|[Special Binary String    ](https://leetcode.com/problems/special-binary-string)|||52.6%|Hard|
-|762|[Prime Number of Set Bits in Binary Representation    ](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation)|||60.4%|Easy|
+|762|[Prime Number of Set Bits in Binary Representation    ](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation)||[Java](./Algorithms/PrimeNumberofSetBitsinBinaryRepresentation.java)|60.4%|Easy|
 |763|[Partition Labels    ](https://leetcode.com/problems/partition-labels)|||72.2%|Medium|
 |764|[Largest Plus Sign    ](https://leetcode.com/problems/largest-plus-sign)|||44.4%|Medium|
 |765|[Couples Holding Hands    ](https://leetcode.com/problems/couples-holding-hands)|||52.3%|Hard|
-|766|[Toeplitz Matrix    ](https://leetcode.com/problems/toeplitz-matrix)|||62.5%|Easy|
+|766|[Toeplitz Matrix    ](https://leetcode.com/problems/toeplitz-matrix)||[Java](./Algorithms/ToeplitzMatrix.java)|62.5%|Easy|
 |767|[Reorganize String    ](https://leetcode.com/problems/reorganize-string)|||43.9%|Medium|
 |768|[Max Chunks To Make Sorted II    ](https://leetcode.com/problems/max-chunks-to-make-sorted-ii)|||46.7%|Hard|
 |769|[Max Chunks To Make Sorted    ](https://leetcode.com/problems/max-chunks-to-make-sorted)|||52.6%|Medium|
 |770|[Basic Calculator IV    ](https://leetcode.com/problems/basic-calculator-iv)|||45.8%|Hard|
-|771|[Jewels and Stones    ](https://leetcode.com/problems/jewels-and-stones)|||83.6%|Easy|
+|771|[Jewels and Stones    ](https://leetcode.com/problems/jewels-and-stones)||[Java](./Algorithms/JewelsandStones.java)|83.6%|Easy|
 |772|[Basic Calculator III    ](https://leetcode.com/problems/basic-calculator-iii)|||41.6%|Hard|
 |773|[Sliding Puzzle    ](https://leetcode.com/problems/sliding-puzzle)|||54.4%|Hard|
 |774|[Minimize Max Distance to Gas Station    ](https://leetcode.com/problems/minimize-max-distance-to-gas-station)|||43.2%|Hard|
@@ -816,7 +816,7 @@ LeetCode
 |808|[Soup Servings    ](https://leetcode.com/problems/soup-servings)|||38.1%|Medium|
 |809|[Expressive Words    ](https://leetcode.com/problems/expressive-words)|||44.8%|Medium|
 |810|[Chalkboard XOR Game    ](https://leetcode.com/problems/chalkboard-xor-game)|||45.1%|Hard|
-|811|[Subdomain Visit Count    ](https://leetcode.com/problems/subdomain-visit-count)|||66.5%|Easy|
+|811|[Subdomain Visit Count    ](https://leetcode.com/problems/subdomain-visit-count)||[Java](./Algorithms/SubdomainVisitCount.java)|66.5%|Easy|
 |812|[Largest Triangle Area    ](https://leetcode.com/problems/largest-triangle-area)|||56.7%|Easy|
 |813|[Largest Sum of Averages    ](https://leetcode.com/problems/largest-sum-of-averages)|||46.6%|Medium|
 |814|[Binary Tree Pruning    ](https://leetcode.com/problems/binary-tree-pruning)|||71.9%|Medium|
@@ -835,9 +835,9 @@ LeetCode
 |827|[Making A Large Island    ](https://leetcode.com/problems/making-a-large-island)|||43.9%|Hard|
 |828|[Unique Letter String    ](https://leetcode.com/problems/unique-letter-string)|||41.4%|Hard|
 |829|[Consecutive Numbers Sum    ](https://leetcode.com/problems/consecutive-numbers-sum)|||34.3%|Hard|
-|830|[Positions of Large Groups    ](https://leetcode.com/problems/positions-of-large-groups)|||48.2%|Easy|
+|830|[Positions of Large Groups    ](https://leetcode.com/problems/positions-of-large-groups)||[Java](./Algorithms/PositionsofLargeGroups.java)|48.2%|Easy|
 |831|[Masking Personal Information    ](https://leetcode.com/problems/masking-personal-information)|||42.3%|Medium|
-|832|[Flipping an Image    ](https://leetcode.com/problems/flipping-an-image)|||73.4%|Easy|
+|832|[Flipping an Image    ](https://leetcode.com/problems/flipping-an-image)||[Java](./Algorithms/FlippinganImage.java)|73.4%|Easy|
 |833|[Find And Replace in String    ](https://leetcode.com/problems/find-and-replace-in-string)|||47.6%|Medium|
 |834|[Sum of Distances in Tree    ](https://leetcode.com/problems/sum-of-distances-in-tree)|||40.8%|Hard|
 |835|[Image Overlap    ](https://leetcode.com/problems/image-overlap)|||54.0%|Medium|
@@ -845,7 +845,7 @@ LeetCode
 |837|[New 21 Game    ](https://leetcode.com/problems/new-21-game)|||32.3%|Medium|
 |838|[Push Dominoes    ](https://leetcode.com/problems/push-dominoes)|||45.1%|Medium|
 |839|[Similar String Groups    ](https://leetcode.com/problems/similar-string-groups)|||35.6%|Hard|
-|840|[Magic Squares In Grid    ](https://leetcode.com/problems/magic-squares-in-grid)|||36.1%|Easy|
+|840|[Magic Squares In Grid    ](https://leetcode.com/problems/magic-squares-in-grid)||[Java](./Algorithms/MagicSquaresInGrid.java)|36.1%|Easy|
 |841|[Keys and Rooms    ](https://leetcode.com/problems/keys-and-rooms)|||61.3%|Medium|
 |842|[Split Array into Fibonacci Sequence    ](https://leetcode.com/problems/split-array-into-fibonacci-sequence)|||35.2%|Medium|
 |843|[Guess the Word    ](https://leetcode.com/problems/guess-the-word)|||44.7%|Hard|
@@ -854,7 +854,7 @@ LeetCode
 |846|[Hand of Straights    ](https://leetcode.com/problems/hand-of-straights)|||50.1%|Medium|
 |847|[Shortest Path Visiting All Nodes    ](https://leetcode.com/problems/shortest-path-visiting-all-nodes)|||48.6%|Hard|
 |848|[Shifting Letters    ](https://leetcode.com/problems/shifting-letters)|||42.0%|Medium|
-|849|[Maximize Distance to Closest Person    ](https://leetcode.com/problems/maximize-distance-to-closest-person)|||41.5%|Easy|
+|849|[Maximize Distance to Closest Person    ](https://leetcode.com/problems/maximize-distance-to-closest-person)||[Java](./Algorithms/MaximizeDistancetoClosestPerson.java)|41.5%|Easy|
 |850|[Rectangle Area II    ](https://leetcode.com/problems/rectangle-area-ii)|||45.6%|Hard|
 |851|[Loud and Rich    ](https://leetcode.com/problems/loud-and-rich)|||49.0%|Medium|
 |852|[Peak Index in a Mountain Array    ](https://leetcode.com/problems/peak-index-in-a-mountain-array)|||70.1%|Easy|
@@ -872,7 +872,7 @@ LeetCode
 |864|[Shortest Path to Get All Keys    ](https://leetcode.com/problems/shortest-path-to-get-all-keys)|||38.1%|Hard|
 |865|[Smallest Subtree with all the Deepest Nodes    ](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes)|||57.6%|Medium|
 |866|[Prime Palindrome    ](https://leetcode.com/problems/prime-palindrome)|||20.4%|Medium|
-|867|[Transpose Matrix    ](https://leetcode.com/problems/transpose-matrix)|||63.9%|Easy|
+|867|[Transpose Matrix    ](https://leetcode.com/problems/transpose-matrix)||[Java](./Algorithms/TransposeMatrix.java)|63.9%|Easy|
 |868|[Binary Gap    ](https://leetcode.com/problems/binary-gap)|||59.7%|Easy|
 |869|[Reordered Power of 2    ](https://leetcode.com/problems/reordered-power-of-2)|||51.2%|Medium|
 |870|[Advantage Shuffle    ](https://leetcode.com/problems/advantage-shuffle)|||43.3%|Medium|
@@ -889,11 +889,11 @@ LeetCode
 |881|[Boats to Save People    ](https://leetcode.com/problems/boats-to-save-people)|||44.6%|Medium|
 |882|[Reachable Nodes In Subdivided Graph    ](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph)|||38.7%|Hard|
 |883|[Projection Area of 3D Shapes    ](https://leetcode.com/problems/projection-area-of-3d-shapes)|||66.0%|Easy|
-|884|[Uncommon Words from Two Sentences    ](https://leetcode.com/problems/uncommon-words-from-two-sentences)|||61.3%|Easy|
+|884|[Uncommon Words from Two Sentences    ](https://leetcode.com/problems/uncommon-words-from-two-sentences)||[Java](./Algorithms/UncommonWordsfromTwoSentences.java)|61.3%|Easy|
 |885|[Spiral Matrix III    ](https://leetcode.com/problems/spiral-matrix-iii)|||65.7%|Medium|
 |886|[Possible Bipartition    ](https://leetcode.com/problems/possible-bipartition)|||41.5%|Medium|
 |887|[Super Egg Drop    ](https://leetcode.com/problems/super-egg-drop)|||25.3%|Hard|
-|888|[Fair Candy Swap    ](https://leetcode.com/problems/fair-candy-swap)|||56.8%|Easy|
+|888|[Fair Candy Swap    ](https://leetcode.com/problems/fair-candy-swap)||[Java](./Algorithms/FairCandySwap.java)|56.8%|Easy|
 |889|[Construct Binary Tree from Preorder and Postorder Traversal    ](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal)|||61.5%|Medium|
 |890|[Find and Replace Pattern    ](https://leetcode.com/problems/find-and-replace-pattern)|||71.8%|Medium|
 |891|[Sum of Subsequence Widths    ](https://leetcode.com/problems/sum-of-subsequence-widths)|||29.8%|Hard|
@@ -901,7 +901,7 @@ LeetCode
 |893|[Groups of Special-Equivalent Strings    ](https://leetcode.com/problems/groups-of-special-equivalent-strings)|||63.5%|Easy|
 |894|[All Possible Full Binary Trees    ](https://leetcode.com/problems/all-possible-full-binary-trees)|||71.7%|Medium|
 |895|[Maximum Frequency Stack    ](https://leetcode.com/problems/maximum-frequency-stack)|||57.3%|Hard|
-|896|[Monotonic Array    ](https://leetcode.com/problems/monotonic-array)|||55.8%|Easy|
+|896|[Monotonic Array    ](https://leetcode.com/problems/monotonic-array)||[Java](./Algorithms/MonotonicArray.java)|55.8%|Easy|
 |897|[Increasing Order Search Tree    ](https://leetcode.com/problems/increasing-order-search-tree)|||65.9%|Easy|
 |898|[Bitwise ORs of Subarrays    ](https://leetcode.com/problems/bitwise-ors-of-subarrays)|||35.3%|Medium|
 |899|[Orderly Queue    ](https://leetcode.com/problems/orderly-queue)|||48.6%|Hard|
@@ -911,15 +911,15 @@ LeetCode
 |903|[Valid Permutations for DI Sequence    ](https://leetcode.com/problems/valid-permutations-for-di-sequence)|||45.8%|Hard|
 |904|[Fruit Into Baskets    ](https://leetcode.com/problems/fruit-into-baskets)|||41.8%|Medium|
 |905|[Sort Array By Parity    ](https://leetcode.com/problems/sort-array-by-parity)|||72.8%|Easy|
-|906|[Super Palindromes    ](https://leetcode.com/problems/super-palindromes)|||30.7%|Hard|
+|906|[Super Palindromes    ](https://leetcode.com/problems/super-palindromes)||[Java](./Algorithms/SortArrayByParity.java)|30.7%|Hard|
 |907|[Sum of Subarray Minimums    ](https://leetcode.com/problems/sum-of-subarray-minimums)|||29.1%|Medium|
 |908|[Smallest Range I    ](https://leetcode.com/problems/smallest-range-i)|||65.0%|Easy|
 |909|[Snakes and Ladders    ](https://leetcode.com/problems/snakes-and-ladders)|||35.5%|Medium|
 |910|[Smallest Range II    ](https://leetcode.com/problems/smallest-range-ii)|||24.7%|Medium|
 |911|[Online Election    ](https://leetcode.com/problems/online-election)|||48.1%|Medium|
-|912|[Sort an Array    ](https://leetcode.com/problems/sort-an-array)|||63.2%|Medium|
+|912|[Sort an Array    ](https://leetcode.com/problems/sort-an-array)||[Java](./Algorithms/SortanArray.java)|63.2%|Medium|
 |913|[Cat and Mouse    ](https://leetcode.com/problems/cat-and-mouse)|||29.4%|Hard|
-|914|[X of a Kind in a Deck of Cards    ](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards)|||33.9%|Easy|
+|914|[X of a Kind in a Deck of Cards    ](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards)||[Java](./Algorithms/XofaKindinaDeckofCards.java)|33.9%|Easy|
 |915|[Partition Array into Disjoint Intervals    ](https://leetcode.com/problems/partition-array-into-disjoint-intervals)|||43.9%|Medium|
 |916|[Word Subsets    ](https://leetcode.com/problems/word-subsets)|||45.8%|Medium|
 |917|[Reverse Only Letters    ](https://leetcode.com/problems/reverse-only-letters)|||56.2%|Easy|
@@ -927,7 +927,7 @@ LeetCode
 |919|[Complete Binary Tree Inserter    ](https://leetcode.com/problems/complete-binary-tree-inserter)|||55.6%|Medium|
 |920|[Number of Music Playlists    ](https://leetcode.com/problems/number-of-music-playlists)|||44.2%|Hard|
 |921|[Minimum Add to Make Parentheses Valid    ](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid)|||70.5%|Medium|
-|922|[Sort Array By Parity II    ](https://leetcode.com/problems/sort-array-by-parity-ii)|||67.2%|Easy|
+|922|[Sort Array By Parity II    ](https://leetcode.com/problems/sort-array-by-parity-ii)||[Java](./Algorithms/SortArrayByParityII.java)|67.2%|Easy|
 |923|[3Sum With Multiplicity    ](https://leetcode.com/problems/3sum-with-multiplicity)|||34.5%|Medium|
 |924|[Minimize Malware Spread    ](https://leetcode.com/problems/minimize-malware-spread)|||40.6%|Hard|
 |925|[Long Pressed Name    ](https://leetcode.com/problems/long-pressed-name)|||44.6%|Easy|
@@ -946,7 +946,7 @@ LeetCode
 |938|[Range Sum of BST    ](https://leetcode.com/problems/range-sum-of-bst)|||78.1%|Easy|
 |939|[Minimum Area Rectangle    ](https://leetcode.com/problems/minimum-area-rectangle)|||51.1%|Medium|
 |940|[Distinct Subsequences II    ](https://leetcode.com/problems/distinct-subsequences-ii)|||40.5%|Hard|
-|941|[Valid Mountain Array    ](https://leetcode.com/problems/valid-mountain-array)|||35.2%|Easy|
+|941|[Valid Mountain Array    ](https://leetcode.com/problems/valid-mountain-array)||[Java](./Algorithms/ValidMountainArray.java)|35.2%|Easy|
 |942|[DI String Match    ](https://leetcode.com/problems/di-string-match)|||69.8%|Easy|
 |943|[Find the Shortest Superstring    ](https://leetcode.com/problems/find-the-shortest-superstring)|||39.2%|Hard|
 |944|[Delete Columns to Make Sorted    ](https://leetcode.com/problems/delete-columns-to-make-sorted)|||69.6%|Easy|
@@ -958,7 +958,7 @@ LeetCode
 |950|[Reveal Cards In Increasing Order    ](https://leetcode.com/problems/reveal-cards-in-increasing-order)|||72.4%|Medium|
 |951|[Flip Equivalent Binary Trees    ](https://leetcode.com/problems/flip-equivalent-binary-trees)|||64.9%|Medium|
 |952|[Largest Component Size by Common Factor    ](https://leetcode.com/problems/largest-component-size-by-common-factor)|||27.2%|Hard|
-|953|[Verifying an Alien Dictionary    ](https://leetcode.com/problems/verifying-an-alien-dictionary)|||55.9%|Easy|
+|953|[Verifying an Alien Dictionary    ](https://leetcode.com/problems/verifying-an-alien-dictionary)||[Java](./Algorithms/VerifyinganAlienDictionary.java)|55.9%|Easy|
 |954|[Array of Doubled Pairs    ](https://leetcode.com/problems/array-of-doubled-pairs)|||35.2%|Medium|
 |955|[Delete Columns to Make Sorted II    ](https://leetcode.com/problems/delete-columns-to-make-sorted-ii)|||32.2%|Medium|
 |956|[Tallest Billboard    ](https://leetcode.com/problems/tallest-billboard)|||38.5%|Hard|
@@ -966,7 +966,7 @@ LeetCode
 |958|[Check Completeness of a Binary Tree    ](https://leetcode.com/problems/check-completeness-of-a-binary-tree)|||48.8%|Medium|
 |959|[Regions Cut By Slashes    ](https://leetcode.com/problems/regions-cut-by-slashes)|||62.9%|Medium|
 |960|[Delete Columns to Make Sorted III    ](https://leetcode.com/problems/delete-columns-to-make-sorted-iii)|||52.5%|Hard|
-|961|[N-Repeated Element in Size 2N Array    ](https://leetcode.com/problems/n-repeated-element-in-size-2n-array)|||72.5%|Easy|
+|961|[N-Repeated Element in Size 2N Array    ](https://leetcode.com/problems/n-repeated-element-in-size-2n-array)||[Java](./Algorithms/RepeatedElementinSize2NArray.java)|72.5%|Easy|
 |962|[Maximum Width Ramp    ](https://leetcode.com/problems/maximum-width-ramp)|||42.8%|Medium|
 |963|[Minimum Area Rectangle II    ](https://leetcode.com/problems/minimum-area-rectangle-ii)|||46.6%|Medium|
 |964|[Least Operators to Express Number    ](https://leetcode.com/problems/least-operators-to-express-number)|||40.6%|Hard|
@@ -982,7 +982,7 @@ LeetCode
 |974|[Subarray Sums Divisible by K    ](https://leetcode.com/problems/subarray-sums-divisible-by-k)|||46.6%|Medium|
 |975|[Odd Even Jump    ](https://leetcode.com/problems/odd-even-jump)|||46.0%|Hard|
 |976|[Largest Perimeter Triangle    ](https://leetcode.com/problems/largest-perimeter-triangle)|||57.0%|Easy|
-|977|[Squares of a Sorted Array    ](https://leetcode.com/problems/squares-of-a-sorted-array)|||71.6%|Easy|
+|977|[Squares of a Sorted Array    ](https://leetcode.com/problems/squares-of-a-sorted-array)||[Java](./Algorithms/SquaresofaSortedArray.java)|71.6%|Easy|
 |978|[Longest Turbulent Subarray    ](https://leetcode.com/problems/longest-turbulent-subarray)|||45.8%|Medium|
 |979|[Distribute Coins in Binary Tree    ](https://leetcode.com/problems/distribute-coins-in-binary-tree)|||67.8%|Medium|
 |980|[Unique Paths III    ](https://leetcode.com/problems/unique-paths-iii)|||71.4%|Hard|
@@ -990,7 +990,7 @@ LeetCode
 |982|[Triples with Bitwise AND Equal To Zero    ](https://leetcode.com/problems/triples-with-bitwise-and-equal-to-zero)|||54.5%|Hard|
 |983|[Minimum Cost For Tickets    ](https://leetcode.com/problems/minimum-cost-for-tickets)|||57.8%|Medium|
 |984|[String Without AAA or BBB    ](https://leetcode.com/problems/string-without-aaa-or-bbb)|||34.7%|Medium|
-|985|[Sum of Even Numbers After Queries    ](https://leetcode.com/problems/sum-of-even-numbers-after-queries)|||62.4%|Easy|
+|985|[Sum of Even Numbers After Queries    ](https://leetcode.com/problems/sum-of-even-numbers-after-queries)||[Java](./Algorithms/SumofEvenNumbersAfterQueries.java)|62.4%|Easy|
 |986|[Interval List Intersections    ](https://leetcode.com/problems/interval-list-intersections)|||64.0%|Medium|
 |987|[Vertical Order Traversal of a Binary Tree    ](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree)|||32.4%|Medium|
 |988|[Smallest String Starting From Leaf    ](https://leetcode.com/problems/smallest-string-starting-from-leaf)|||45.0%|Medium|
@@ -1007,7 +1007,7 @@ LeetCode
 |999|[Available Captures for Rook    ](https://leetcode.com/problems/available-captures-for-rook)|||65.9%|Easy|
 |1000|[Minimum Cost to Merge Stones    ](https://leetcode.com/problems/minimum-cost-to-merge-stones)|||35.6%|Hard|
 |1001|[Grid Illumination    ](https://leetcode.com/problems/grid-illumination)|||34.8%|Hard|
-|1002|[Find Common Characters    ](https://leetcode.com/problems/find-common-characters)|||65.7%|Easy|
+|1002|[Find Common Characters    ](https://leetcode.com/problems/find-common-characters)||[Java](./Algorithms/FindCommonCharacters.java)|65.7%|Easy|
 |1003|[Check If Word Is Valid After Substitutions    ](https://leetcode.com/problems/check-if-word-is-valid-after-substitutions)|||52.9%|Medium|
 |1004|[Max Consecutive Ones III    ](https://leetcode.com/problems/max-consecutive-ones-iii)|||54.8%|Medium|
 |1005|[Maximize Sum Of Array After K Negations    ](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations)|||50.2%|Easy|
@@ -1015,15 +1015,15 @@ LeetCode
 |1007|[Minimum Domino Rotations For Equal Row    ](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row)|||50.9%|Medium|
 |1008|[Construct Binary Search Tree from Preorder Traversal    ](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal)|||73.5%|Medium|
 |1009|[Complement of Base 10 Integer    ](https://leetcode.com/problems/complement-of-base-10-integer)|||59.2%|Easy|
-|1010|[Pairs of Songs With Total Durations Divisible by 60    ](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60)|||46.1%|Easy|
+|1010|[Pairs of Songs With Total Durations Divisible by 60    ](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60)||[Java](./Algorithms/PairsofSongsWithTotalDurationsDivisibleby60.java)|46.1%|Easy|
 |1011|[Capacity To Ship Packages Within D Days     ](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days)|||54.5%|Medium|
 |1012|[Numbers With Repeated Digits    ](https://leetcode.com/problems/numbers-with-repeated-digits)|||34.9%|Hard|
-|1013|[Partition Array Into Three Parts With Equal Sum    ](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum)|||56.3%|Easy|
+|1013|[Partition Array Into Three Parts With Equal Sum    ](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum)||[Java](./Algorithms/PartitionArrayIntoThreePartsWithEqualSum.java)|56.3%|Easy|
 |1014|[Best Sightseeing Pair    ](https://leetcode.com/problems/best-sightseeing-pair)|||50.5%|Medium|
 |1015|[Smallest Integer Divisible by K    ](https://leetcode.com/problems/smallest-integer-divisible-by-k)|||29.8%|Medium|
 |1016|[Binary String With Substrings Representing 1 To N    ](https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n)|||58.9%|Medium|
 |1017|[Convert to Base -2    ](https://leetcode.com/problems/convert-to-base-2)|||57.0%|Medium|
-|1018|[Binary Prefix Divisible By 5    ](https://leetcode.com/problems/binary-prefix-divisible-by-5)|||47.0%|Easy|
+|1018|[Binary Prefix Divisible By 5    ](https://leetcode.com/problems/binary-prefix-divisible-by-5)||[Java](./Algorithms/BinaryPrefixDivisibleBy5.java)|47.0%|Easy|
 |1019|[Next Greater Node In Linked List    ](https://leetcode.com/problems/next-greater-node-in-linked-list)|||56.7%|Medium|
 |1020|[Number of Enclaves    ](https://leetcode.com/problems/number-of-enclaves)|||54.9%|Medium|
 |1021|[Remove Outermost Parentheses    ](https://leetcode.com/problems/remove-outermost-parentheses)|||75.0%|Easy|
@@ -1056,7 +1056,7 @@ LeetCode
 |1048|[Longest String Chain    ](https://leetcode.com/problems/longest-string-chain)|||50.2%|Medium|
 |1049|[Last Stone Weight II    ](https://leetcode.com/problems/last-stone-weight-ii)|||40.6%|Medium|
 |1050|[Actors and Directors Who Cooperated At Least Three Times    ](https://leetcode.com/problems/actors-and-directors-who-cooperated-at-least-three-times)|||71.7%|Easy|
-|1051|[Height Checker    ](https://leetcode.com/problems/height-checker)|||68.6%|Easy|
+|1051|[Height Checker    ](https://leetcode.com/problems/height-checker)||[Java](./Algorithms/HeightChecker.java)|68.6%|Easy|
 |1052|[Grumpy Bookstore Owner    ](https://leetcode.com/problems/grumpy-bookstore-owner)|||52.9%|Medium|
 |1053|[Previous Permutation With One Swap    ](https://leetcode.com/problems/previous-permutation-with-one-swap)|||46.9%|Medium|
 |1054|[Distant Barcodes    ](https://leetcode.com/problems/distant-barcodes)|||39.9%|Medium|
@@ -1094,12 +1094,12 @@ LeetCode
 |1086|[High Five    ](https://leetcode.com/problems/high-five)|||74.5%|Easy|
 |1087|[Brace Expansion    ](https://leetcode.com/problems/brace-expansion)|||59.7%|Medium|
 |1088|[Confusing Number II    ](https://leetcode.com/problems/confusing-number-ii)|||35.5%|Hard|
-|1089|[Duplicate Zeros    ](https://leetcode.com/problems/duplicate-zeros)|||59.0%|Easy|
-|1090|[Largest Values From Labels    ](https://leetcode.com/problems/largest-values-from-labels)|||57.5%|Medium|
+|1089|[Duplicate Zeros    ](https://leetcode.com/problems/duplicate-zeros)||[Java](./Algorithms/DuplicateZeros.java)|59.0%|Easy|
+|1090|[Largest Values From Labels    ](https://leetcode.com/problems/largest-values-from-labels)||[Java](./Algorithms/LargestValuesFromLabels.java)|57.5%|Medium|
 |1091|[Shortest Path in Binary Matrix    ](https://leetcode.com/problems/shortest-path-in-binary-matrix)|||36.3%|Medium|
 |1092|[Shortest Common Supersequence     ](https://leetcode.com/problems/shortest-common-supersequence)|||48.5%|Hard|
 |1093|[Statistics from a Large Sample    ](https://leetcode.com/problems/statistics-from-a-large-sample)|||44.2%|Medium|
-|1094|[Car Pooling    ](https://leetcode.com/problems/car-pooling)|||57.2%|Medium|
+|1094|[Car Pooling    ](https://leetcode.com/problems/car-pooling)||[Java](./Algorithms/CarPooling.java)|57.2%|Medium|
 |1095|[Find in Mountain Array    ](https://leetcode.com/problems/find-in-mountain-array)|||34.5%|Hard|
 |1096|[Brace Expansion II    ](https://leetcode.com/problems/brace-expansion-ii)|||57.2%|Hard|
 |1097|[Game Play Analysis V    ](https://leetcode.com/problems/game-play-analysis-v)|||48.1%|Hard|
@@ -1116,7 +1116,7 @@ LeetCode
 |1108|[Defanging an IP Address    ](https://leetcode.com/problems/defanging-an-ip-address)|||84.2%|Easy|
 |1109|[Corporate Flight Bookings    ](https://leetcode.com/problems/corporate-flight-bookings)|||48.9%|Medium|
 |1110|[Delete Nodes And Return Forest    ](https://leetcode.com/problems/delete-nodes-and-return-forest)|||63.7%|Medium|
-|1111|[Maximum Nesting Depth of Two Valid Parentheses Strings    ](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings)|||66.6%|Medium|
+|1111|[Maximum Nesting Depth of Two Valid Parentheses Strings    ](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings)||[Java](./Algorithms/MaximumNestingDepthofTwoValidParenthesesStrings.java)|66.6%|Medium|
 |1112|[Highest Grade For Each Student    ](https://leetcode.com/problems/highest-grade-for-each-student)|||61.0%|Medium|
 |1113|[Reported Posts    ](https://leetcode.com/problems/reported-posts)|||59.2%|Easy|
 |1114|[Print in Order    ](https://leetcode.com/problems/print-in-order)|||59.2%|Easy|
@@ -1127,13 +1127,13 @@ LeetCode
 |1119|[Remove Vowels from a String    ](https://leetcode.com/problems/remove-vowels-from-a-string)|||87.3%|Easy|
 |1120|[Maximum Average Subtree    ](https://leetcode.com/problems/maximum-average-subtree)|||61.7%|Medium|
 |1121|[Divide Array Into Increasing Sequences    ](https://leetcode.com/problems/divide-array-into-increasing-sequences)|||53.9%|Hard|
-|1122|[Relative Sort Array    ](https://leetcode.com/problems/relative-sort-array)|||66.3%|Easy|
+|1122|[Relative Sort Array    ](https://leetcode.com/problems/relative-sort-array)||[Java](./Algorithms/RelativeSortArray.java)|66.3%|Easy|
 |1123|[Lowest Common Ancestor of Deepest Leaves    ](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves)|||64.3%|Medium|
 |1124|[Longest Well-Performing Interval    ](https://leetcode.com/problems/longest-well-performing-interval)|||31.5%|Medium|
 |1125|[Smallest Sufficient Team    ](https://leetcode.com/problems/smallest-sufficient-team)|||44.7%|Hard|
 |1126|[Active Businesses    ](https://leetcode.com/problems/active-businesses)|||70.8%|Medium|
 |1127|[User Purchase Platform    ](https://leetcode.com/problems/user-purchase-platform)|||45.1%|Hard|
-|1128|[Number of Equivalent Domino Pairs    ](https://leetcode.com/problems/number-of-equivalent-domino-pairs)|||45.3%|Easy|
+|1128|[Number of Equivalent Domino Pairs    ](https://leetcode.com/problems/number-of-equivalent-domino-pairs)||[Java](./Algorithms/NumberofEquivalentDominoPairs.java)|45.3%|Easy|
 |1129|[Shortest Path with Alternating Colors    ](https://leetcode.com/problems/shortest-path-with-alternating-colors)|||36.6%|Medium|
 |1130|[Minimum Cost Tree From Leaf Values    ](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values)|||60.0%|Medium|
 |1131|[Maximum of Absolute Value Expression    ](https://leetcode.com/problems/maximum-of-absolute-value-expression)|||51.9%|Medium|
@@ -1165,7 +1165,7 @@ LeetCode
 |1157|[Online Majority Element In Subarray    ](https://leetcode.com/problems/online-majority-element-in-subarray)|||32.6%|Hard|
 |1158|[Market Analysis I    ](https://leetcode.com/problems/market-analysis-i)|||51.1%|Medium|
 |1159|[Market Analysis II    ](https://leetcode.com/problems/market-analysis-ii)|||46.5%|Hard|
-|1160|[Find Words That Can Be Formed by Characters    ](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters)|||68.1%|Easy|
+|1160|[Find Words That Can Be Formed by Characters    ](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters)||[Java](./Algorithms/FindWordsThatCanBeFormedbyCharacters.java)|68.1%|Easy|
 |1161|[Maximum Level Sum of a Binary Tree    ](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree)|||72.0%|Medium|
 |1162|[As Far from Land as Possible    ](https://leetcode.com/problems/as-far-from-land-as-possible)|||39.1%|Medium|
 |1163|[Last Substring in Lexicographical Order    ](https://leetcode.com/problems/last-substring-in-lexicographical-order)|||30.2%|Hard|
@@ -1175,14 +1175,14 @@ LeetCode
 |1167|[Minimum Cost to Connect Sticks    ](https://leetcode.com/problems/minimum-cost-to-connect-sticks)|||59.4%|Medium|
 |1168|[Optimize Water Distribution in a Village    ](https://leetcode.com/problems/optimize-water-distribution-in-a-village)|||50.9%|Hard|
 |1169|[Invalid Transactions    ](https://leetcode.com/problems/invalid-transactions)|||27.0%|Medium|
-|1170|[Compare Strings by Frequency of the Smallest Character    ](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character)|||61.2%|Easy|
+|1170|[Compare Strings by Frequency of the Smallest Character    ](https://leetcode.com/problems/compare-strings-by-frequency-of-the-smallest-character)||[Java](./Algorithms/CompareStringsbyFrequencyoftheSmallestCharacter.java)|61.2%|Easy|
 |1171|[Remove Zero Sum Consecutive Nodes from Linked List    ](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list)|||42.7%|Medium|
 |1172|[Dinner Plate Stacks    ](https://leetcode.com/problems/dinner-plate-stacks)|||41.5%|Hard|
 |1173|[Immediate Food Delivery I    ](https://leetcode.com/problems/immediate-food-delivery-i)|||74.1%|Easy|
 |1174|[Immediate Food Delivery II    ](https://leetcode.com/problems/immediate-food-delivery-ii)|||51.1%|Medium|
-|1175|[Prime Arrangements    ](https://leetcode.com/problems/prime-arrangements)|||50.1%|Easy|
-|1176|[Diet Plan Performance    ](https://leetcode.com/problems/diet-plan-performance)|||48.2%|Easy|
-|1177|[Can Make Palindrome from Substring    ](https://leetcode.com/problems/can-make-palindrome-from-substring)|||31.6%|Medium|
+|1175|[Prime Arrangements    ](https://leetcode.com/problems/prime-arrangements)||[Java](./Algorithms/PrimeArrangements.java)|50.1%|Easy|
+|1176|[Diet Plan Performance    ](https://leetcode.com/problems/diet-plan-performance)||[Java](./Algorithms/DietPlanPerformance.java)|48.2%|Easy|
+|1177|[Can Make Palindrome from Substring    ](https://leetcode.com/problems/can-make-palindrome-from-substring)||[Java](./Algorithms/CanMakePalindromefromSubstring.java)|31.6%|Medium|
 |1178|[Number of Valid Words for Each Puzzle    ](https://leetcode.com/problems/number-of-valid-words-for-each-puzzle)|||34.1%|Hard|
 |1179|[Reformat Department Table    ](https://leetcode.com/problems/reformat-department-table)|||67.6%|Easy|
 |1180|[Count Substrings with Only One Distinct Letter    ](https://leetcode.com/problems/count-substrings-with-only-one-distinct-letter)|||79.6%|Easy|

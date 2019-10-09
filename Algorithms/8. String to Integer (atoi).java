@@ -5,7 +5,7 @@ class Solution {
             Integer.MAX_VALUE
             int to double
             char to int
-            too much corner cases
+            too many corner cases
         */
         if (str.length() == 0) return 0;
         
@@ -26,8 +26,8 @@ class Solution {
             if (first && str.charAt(i) == ' ') count++;
         }
         
-        if (first) return 0;
-        if (start - count != 0) return 0;
+        if (first) return 0; // we never find a numeric value or '+' or '-'
+        if (start - count != 0) return 0; // not all characters before 'start' are white spaces
         str = str.substring(start, end);
         //System.out.println(start + " " + end + " " + str);
         

@@ -20,10 +20,27 @@ class Solution {
             reverse the entire array, then reverse the first to kth elements, then reverse the rest of the elements
             O(1) space and O(n) time complexity
         */
-        k %= nums.length;
-        reverse(nums, 0, nums.length - 1);
-        reverse(nums, 0, k - 1);
-        reverse(nums, k, nums.length - 1);
+        // k %= nums.length;
+        // reverse(nums, 0, nums.length - 1);
+        // reverse(nums, 0, k - 1);
+        // reverse(nums, k, nums.length - 1);
+
+        /*
+            Using another array
+                deep copy the array
+                the number at index i in the original array is placed at the index (i+ (length of array) - k)%(length of array). Then, we copy the new array to the original one
+        */
+        k = k % nums.length;
+        
+        int[] temp = new int[nums.length];
+        
+        for (int i = 0; i < nums.length; ++i) {
+            temp[i] = nums[i];
+        }
+        
+        for (int i = 0; i < nums.length; ++i) {
+            nums[i] = temp[(i + nums.length - k) % nums.length];
+        }
     }
     
     public void reverse(int[] nums, int start, int end) {

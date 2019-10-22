@@ -1,4 +1,11 @@
-|
+LeetCode
+========
+
+### LeetCode Algorithm
+
+
+| # | Title | Leetcode Solution | Solution | Percentage | Difficulty |
+|---| ----- | ----------------- | -------- | ---------- | ---------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum)|[Solution](https://leetcode.com/articles/two-sum)|[Java](./Algorithms/1.%20Two%20Sum.java)|44.7%|Easy|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers)|[Solution](https://leetcode.com/articles/add-two-numbers)|[Java](./Algorithms/2.%20Add%20Two%20Numbers.java)|32.0%|Medium|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)|[Solution](https://leetcode.com/articles/longest-substring-without-repeating-characters)|[Java](./Algorithms/3.%20Longest%20Substring%20Without%20Repeating%20Characters.java)|29.0%|Medium|
@@ -1223,9 +1230,9 @@
 |1222|[Queens That Can Attack the King](https://leetcode.com/problems/queens-that-can-attack-the-king)||[Java](./Algorithms/1222.%20Queens%20That%20Can%20Attack%20the%20King.java)|69.4%|Medium|
 |1223|[Dice Roll Simulation](https://leetcode.com/problems/dice-roll-simulation)||[Java](./Algorithms/1223.%20Dice%20Roll%20Simulation.java)|42.1%|Medium|
 |1224|[Maximum Equal Frequency](https://leetcode.com/problems/maximum-equal-frequency)||[Java](./Algorithms/1224.%20Maximum%20Equal%20Frequency.java)|31.1%|Hard|
-|1225|[Report Contiguous Dates    New](https://leetcode.com/problems/report-contiguous-dates)||[Java](./Algorithms/1225.%20Report%20Contiguous%20Dates    New.java)|61.8%|Hard|
-|1226|[The Dining Philosophers    New](https://leetcode.com/problems/the-dining-philosophers)||[Java](./Algorithms/1226.%20The%20Dining%20Philosophers    New.java)|47.3%|Medium|
-|1227|[Airplane Seat Assignment Probability    New](https://leetcode.com/problems/airplane-seat-assignment-probability)||[Java](./Algorithms/1227.%20Airplane%20Seat%20Assignment%20Probability    New.java)|63.4%|Medium|
+|1225|[Report Contiguous Dates    New](https://leetcode.com/problems/report-contiguous-dates)||[Java](./Algorithms/1225.%20Report%20Contiguous%20DatesNew.java)|61.8%|Hard|
+|1226|[The Dining Philosophers    New](https://leetcode.com/problems/the-dining-philosophers)||[Java](./Algorithms/1226.%20The%20Dining%20PhilosophersNew.java)|47.3%|Medium|
+|1227|[Airplane Seat Assignment Probability    New](https://leetcode.com/problems/airplane-seat-assignment-probability)||[Java](./Algorithms/1227.%20Airplane%20Seat%20Assignment%20ProbabilityNew.java)|63.4%|Medium|
 |1228|[Missing Number In Arithmetic Progression](https://leetcode.com/problems/missing-number-in-arithmetic-progression)||[Java](./Algorithms/1228.%20Missing%20Number%20In%20Arithmetic%20Progression.java)|51.8%|Easy|
 |1229|[Meeting Scheduler](https://leetcode.com/problems/meeting-scheduler)||[Java](./Algorithms/1229.%20Meeting%20Scheduler.java)|38.9%|Medium|
 |1230|[Toss Strange Coins](https://leetcode.com/problems/toss-strange-coins)||[Java](./Algorithms/1230.%20Toss%20Strange%20Coins.java)|40.9%|Medium|
@@ -1234,5 +1241,4 @@
 |1233|[Remove Sub-Folders from the Filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem)||[Java](./Algorithms/1233.%20Remove%20Sub-Folders%20from%20the%20Filesystem.java)|51.9%|Medium|
 |1234|[Replace the Substring for Balanced String](https://leetcode.com/problems/replace-the-substring-for-balanced-string)||[Java](./Algorithms/1234.%20Replace%20the%20Substring%20for%20Balanced%20String.java)|27.8%|Medium|
 |1235|[Maximum Profit in Job Scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling)||[Java](./Algorithms/1235.%20Maximum%20Profit%20in%20Job%20Scheduling.java)|41.7%|Hard|
-|1236|[Web Crawler    New](https://leetcode.com/problems/web-crawler)||[Java](./Algorithms/1236.%20Web%20Crawler    New.java)|54.0%|Medium|
-|
+|1236|[Web Crawler    New](https://leetcode.com/problems/web-crawler)||[Java](./Algorithms/1236.%20Web%20CrawlerNew.java)|54.0%|Medium|

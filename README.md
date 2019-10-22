@@ -417,7 +417,7 @@ LeetCode
 |409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome)|[Solution](https://leetcode.com/articles/longest-palindrome)|[Java](./Algorithms/LongestPalindrome.java)|48.9%|Easy|
 |410|[Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum)|[Solution](https://leetcode.com/articles/split-array-largest-sum)|[Java](./Algorithms/SplitArrayLargestSum.java)|43.1%|Hard|
 |411|[Minimum Unique Word Abbreviation](https://leetcode.com/problems/minimum-unique-word-abbreviation)||[Java](./Algorithms/MinimumUniqueWordAbbreviation.java)|35.4%|Hard|
-|412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz)|[Solution](https://leetcode.com/articles/fizz-buzz)|[Java](./Algorithms/FizzBuzz.java)|60.2%|Easy|
+|412|[Fizz Buzz](https://leetcode.com/problems/fizz-buzz)|[Solution](https://leetcode.com/articles/fizz-buzz)|[Java](./Algorithms/412.%20Fizz%20Buzz.java)|60.2%|Easy|
 |413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices)|[Solution](https://leetcode.com/articles/arithmetic-slices)|[Java](./Algorithms/ArithmeticSlices.java)|56.6%|Medium|
 |414|[Third Maximum Number](https://leetcode.com/problems/third-maximum-number)||[Java](./Algorithms/ThirdMaximumNumber.java)|29.5%|Easy|
 |415|[Add Strings](https://leetcode.com/problems/add-strings)||[Java](./Algorithms/AddStrings.java)|44.9%|Easy|

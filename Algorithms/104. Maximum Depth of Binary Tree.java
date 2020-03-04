@@ -12,25 +12,30 @@ class Solution {
         Recursion
         Top-Down solution
     */
-    int max = 1;
-    public int maxDepth(TreeNode root) {
-        if (root == null) return 0;
-        helper(root, max);
-        return max;
-    }
+//     int max = 1;
+//     public int maxDepth(TreeNode root) {
+//         if (root == null) return 0;
+//         helper(root, max);
+//         return max;
+//     }
     
-    private int helper(TreeNode node, int depth) {
-        if (node.left != null) max = Math.max(helper(node.left, depth + 1), depth);
-        if (node.right != null) max = Math.max(helper(node.right, depth + 1), depth);
+//     private int helper(TreeNode node, int depth) {
+//         if (node.left != null) max = Math.max(helper(node.left, depth + 1), depth);
+//         if (node.right != null) max = Math.max(helper(node.right, depth + 1), depth);
         
-        return Math.max(max, depth);
-    }
+//         return Math.max(max, depth);
+//     }
     
     /*
         Recursion
         Bottom-Up solution
     */
-//     public int maxDepth(TreeNode root) {
+    public int maxDepth(TreeNode root) {
+        if (root == null) return 0;
         
-//     }
+        int left = maxDepth(root.left);
+        int right = maxDepth(root.right);
+        
+        return Math.max(left, right) + 1;
+    }
 }

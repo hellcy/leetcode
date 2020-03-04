@@ -64,4 +64,25 @@ class Solution {
         return list;
     }
 
+    /*
+        Iterative postorder another version
+            think of it as a right Pre-Order, visit node value and then the right value and then left value
+            and reverse the results
+    */
+
+    public List<Integer> postorderTraversal(TreeNode root) {
+        Stack<TreeNode> stack = new Stack<>();
+        LinkedList<Integer> list = new LinkedList<>();
+        
+        stack.add(root);
+        while (!stack.isEmpty()) {
+            TreeNode node = stack.pop();
+            list.addFirst(node.val);
+            if (node.left != null) stack.add(node.left);
+            if (node.right != null) stack.add(node.right);
+        }
+        
+        return list;
+    }
+
 }

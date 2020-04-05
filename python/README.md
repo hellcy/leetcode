@@ -1406,3 +1406,4 @@
 |1405|[Longest Happy String](https://leetcode.com/problems/longest-happy-string)||[Java](./Algorithms/1405.%20Longest%20Happy%20String.java)|35.1%|Medium|
 |1406|[Stone Game III](https://leetcode.com/problems/stone-game-iii)||[Java](./Algorithms/1406.%20Stone%20Game%20III.java)|44.2%|Hard|
 |
+Easy:395 Medium: 717 Hard: 294

@@ -7,6 +7,9 @@ htmlfile = open(path, 'r', encoding='utf-8').read()
 
 f = open("README.md", "w", encoding='utf-8')
 
+easy = 0
+medium = 0
+hard = 0
 soup = BeautifulSoup(htmlfile, features='lxml')
 table = soup.find('table', {"class": "table table-striped"})
 rows = table.find_all('tr')
@@ -35,6 +38,11 @@ for r in rows:
 		else:
 			f.write('|' + td.get_text())
 			if td.get_text().isdigit(): number = td.get_text()
+			if td.get_text() == "Easy": easy += 1
+			if td.get_text() == "Medium": medium += 1
+			if td.get_text() == "Hard": hard += 1
 			if td.get_text() == "Easy" or td.get_text() == "Medium" or td.get_text() == "Hard": break
 	f.write('|\n')
+
+f.write('Easy:' + str(easy) + ' Medium: ' + str(medium) + ' Hard: ' + str(hard))
 f.close()

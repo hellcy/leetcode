@@ -2,6 +2,7 @@ class Solution {
     public int maxSubArray(int[] nums) {
         /*
             dynamic programming
+                if the presum is greater than zero, update the array
         */
         if (nums.length == 0) return 0;
         int[] maxArray = new int[nums.length];

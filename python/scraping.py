@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 from urllib.request import urlopen
 
-path = 'C:/leetcode/python/leetCode4.html'
+path = 'E:/leetcode/python/LeetCode2.html'
 
 htmlfile = open(path, 'r', encoding='utf-8').read()
 

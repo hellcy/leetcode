@@ -5,6 +5,7 @@ class Solution {
             BFS
             for each 1 cell at (x, y), search for (x, y + 1), (x + 1, y + 1), (x + 1, y)
             square area plus one if all cells at the current level are valid '1'.
+            visited boolean is for each cell, not for the matrix.
         */
         
         if (matrix == null || matrix.length == 0) return 0;

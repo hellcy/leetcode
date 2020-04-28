@@ -1,46 +1,82 @@
 class Solution {
     public int[] sortArray(int[] nums) {
-        // insertion sort
-        // int temp;
-        // for (int i = 1; i < nums.length; ++i) {
-        //     for (int j = i; j > 0; --j) {
-        //         if (nums[j] < nums[j - 1]) {
-        //             temp = nums[j];
-        //             nums[j] = nums[j - 1];
-        //             nums[j - 1] = temp;
-        //         }
-        //     }
-        // }
+        if (nums == null || nums.length == 0) return new int[] {};
+        /*
+            Merge sort
+        */
         
-        // merge sort
-        int start = 0;
-        int end = nums.length - 1;
-        merge_sort(nums, start, end);
+        // int[] array = new int[nums.length];
+        // mergesort(nums, array, 0, nums.length - 1);
+        
+        /*
+            Quick sort
+        */
+        quicksort(nums, 0, nums.length - 1);
+        
         return nums;
     }
     
-    private void merge_sort(int[] nums, int start, int end) {
-        if (start < end) {
-            int mid = (end + start) / 2;
-            merge_sort(nums, start, mid);
-            merge_sort(nums, mid + 1, end);
-            
-            merge(nums, start, mid, end);
+    private void mergesort(int[] nums, int[] array, int start, int end) {
+        if (start >= end) return;
+        
+        int mid = (end - start) / 2 + start;
+        
+        mergesort(nums, array, start, mid);
+        mergesort(nums, array, mid + 1, end);
+        
+        merge(nums, array, start, mid, end);
+    }
+    
+    private void merge(int[] nums, int[] array, int start, int mid, int end) {
+        int left = start, right = mid + 1;
+        int index = start;
+        
+        while (left <= mid && right <= end) {
+            if (nums[left] < nums[right]) {
+                array[index++] = nums[left++];
+            } else {
+                array[index++] = nums[right++];
+            }
+        }
+        
+        while (left <= mid) {
+            array[index++] = nums[left++];
+        }
+        
+        while (right <= end) {
+            array[index++] = nums[right++];
+        }
+        
+        for (index = start; index <= end; ++index) {
+            nums[index] = array[index];
         }
     }
     
-    private void merge(int[] nums, int start, int mid, int end) {
-        int[] array = new int[end - start + 1];
-        int p = start, q = mid + 1, k = 0;
-        for (int i = 0; i < array.length; ++i) {
-            if (p > mid) array[k++] = nums[q++];
-            else if (q > end) array[k++] = nums[p++];
-            else if (nums[p] < nums[q]) array[k++] = nums[p++];
-            else array[k++] = nums[q++];
+    private void quicksort(int[] nums, int start, int end) {
+        if (start >= end) return;
+        
+        // note: here we need to save the pivot value, not index
+        // because nums[index] may be change during the loop. So pivot value may be changed if we only saved index
+        int pivot = nums[(end - start) / 2 + start];
+        int left = start, right = end;
+        while (left <= right) {
+            while (left <= right && nums[left] < pivot) {
+                left++;
+            }
+            while (left <= right && nums[right] > pivot) {
+                right--;
+            }
+            
+            if (left <= right) {
+                int temp = nums[left];
+                nums[left] = nums[right];
+                nums[right] = temp;
+                left++;
+                right--;
+            }
         }
         
-        for (int i = 0; i < array.length; ++i) {
-            nums[start++] = array[i];
-        }
+        quicksort(nums, start, right);
+        quicksort(nums, left, end);
     }
 }

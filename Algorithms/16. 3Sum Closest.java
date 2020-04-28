@@ -25,3 +25,49 @@ class Solution {
         }
     }
 }
+
+class Solution {
+    int diff = Integer.MAX_VALUE;
+    int ans = Integer.MAX_VALUE;
+    public int threeSumClosest(int[] nums, int target) {
+        /*
+            Two pointers
+        */
+        
+        int length = nums.length;
+        
+        Arrays.sort(nums);
+
+        for (int i = 0; i < length; ++i) {
+            int value = target - nums[i];
+            int left = i + 1, right = length - 1;
+            ans = twosum(nums, value, left, right, target);
+        }
+        
+        return ans;
+    }
+    
+    private int twosum(int[] nums, int value, int left, int right, int target) {
+        while (left < right) {
+            //System.out.println(diff);
+            if (nums[left] + nums[right] == value) {
+                diff = 0;
+                return nums[left] + nums[right] - value + target;
+            } else if (nums[left] + nums[right] < value) {
+                if (value - (nums[left] + nums[right]) < diff) {
+                    diff = value - (nums[left] + nums[right]);
+                    ans = nums[left] + nums[right] - value + target;
+                }
+                left++;
+            } else {
+                if ((nums[left] + nums[right]) - value < diff) {
+                    diff = (nums[left] + nums[right]) - value;
+                    ans = nums[left] + nums[right] - value + target;
+                }
+                right--;
+            }
+        }
+        
+        return ans;
+    }
+}

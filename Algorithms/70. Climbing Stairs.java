@@ -28,16 +28,32 @@ class Solution {
         but there are duplicates, take a single step from i - 2th step is already included in the i - 1th step
         so f(n) = f(n - 1) + f(n - 2)
     */
+    // public int climbStairs(int n) {
+    //     if (n == 1) {
+    //         return 1;
+    //     }
+    //     int[] array = new int[n];
+    //     array[0] = 1;
+    //     array[1] = 2;
+    //     for (int i = 2; i < array.length; ++i) {
+    //         array[i] = array[i - 1] + array[i - 2];
+    //     }
+    //     return array[n - 1];
+    // }
+
     public int climbStairs(int n) {
-        if (n == 1) {
-            return 1;
+        /*
+            coordinates dynamic programming
+        */
+        if (n <= 2) return n;
+        int[] dp = new int[n];
+        dp[0] = 1;
+        dp[1] = 2;
+        
+        for (int i = 2; i < n; ++i) {
+            dp[i] = dp[i - 1] + dp[i - 2];
         }
-        int[] array = new int[n];
-        array[0] = 1;
-        array[1] = 2;
-        for (int i = 2; i < array.length; ++i) {
-            array[i] = array[i - 1] + array[i - 2];
-        }
-        return array[n - 1];
+        
+        return dp[n - 1];
     }
 }

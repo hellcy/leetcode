@@ -423,6 +423,7 @@ td a.ranking-username {
 }
 div.avatar[class*="hover-effect"][class*="simple-avatar"] a[href="/johnkram"]::after,
 div.avatar[class*="hover-effect"][class*="simple-avatar"] a[href="/liouzhou_101"]::after,
+div.avatar[class*="hover-effect"][class*="simple-avatar"] a[href="/zerotrac2"]::after,
 [class*="simple-avatar"] [href*="/leetcode-cn.com/"]::after {
   content: "🇨🇳";
   display: block;
@@ -448,6 +449,7 @@ document.querySelector('body').appendChild(LChotfix);
 if(window.location.pathname == "/contest/") {
   applyFlag("liouzhou_101");
   applyFlag("JOHNKRAM");
+  applyFlag("zerotrac2");
 }
 
 function applyFlag(usName) {

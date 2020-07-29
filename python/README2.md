@@ -1,11 +1,4 @@
-LeetCode
-========
-
-### LeetCode Algorithm
-
-
-| # | Title | Leetcode Solution | Solution | Percentage | Difficulty |
-|---| ----- | ----------------- | -------- | ---------- | ---------- |
+|
 |1|[Two Sum](https://leetcode.com/problems/two-sum)|[Solution](https://leetcode.com/articles/two-sum)|[Java](./Algorithms/1.%20Two%20Sum.java)|45.6%|Easy|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers)|[Solution](https://leetcode.com/articles/add-two-numbers)|[Java](./Algorithms/2.%20Add%20Two%20Numbers.java)|33.8%|Medium|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters)|[Solution](https://leetcode.com/articles/longest-substring-without-repeating-characters)|[Java](./Algorithms/3.%20Longest%20Substring%20Without%20Repeating%20Characters.java)|30.3%|Medium|

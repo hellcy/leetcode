@@ -1,28 +1,30 @@
 class Solution {
     public int firstMissingPositive(int[] nums) {
         /*
-            Priority Queue
-            Set
+            1. make all negative number greater than nums.length + 1, so they won't affect our ans
+            2. mark all visit number to its negative value (number = -number)
+            3. the first positive number is the ans
         */
-        int size = nums.length;
-        PriorityQueue<Integer> heap = new PriorityQueue<>((x, y) -> x - y);
-        Set<Integer> set = new HashSet<>();
         
-        for (int i = 0; i < size; ++i) {
-            if (nums[i] > 0 && !set.contains(nums[i])) {
-                set.add(nums[i]);
-                heap.add(nums[i]);
+        int n = nums.length;
+        
+        for (int i = 0; i < n; ++i) {
+            if (nums[i] <= 0) nums[i] = n + 1;
+        }
+        
+        for (int i = 0; i < n; ++i) {
+            int num = Math.abs(nums[i]) - 1;
+            if (num < n && nums[num] > 0) {
+                nums[num] = -nums[num];
             }
         }
-                
-        if (heap.size() == 0 || heap.peek() > 1) return 1;
         
-        int number = 0, check = 0;
-        while (!heap.isEmpty()) {
-            number = heap.poll();
-            if (number != check + 1) return check + 1; 
-            check = number;
+        for (int i = 0; i < n; ++i) {
+            if (nums[i] > 0) {
+                return i + 1;
+            }
         }
-        return number + 1;
+        
+        return n + 1;
     }
 }

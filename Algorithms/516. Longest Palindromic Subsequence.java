@@ -1,7 +1,7 @@
 class Solution {
     public int longestPalindromeSubseq(String s) {
         /*
-            1. sequence dp
+            1. range dp
             i, j: indexes
             if characters at i and j are the same, ans is the smaller subsequence at (i + 1, j - 1) + 2
             if characters at i and j are not the same, ans is the max from either subsequence at (i + 1, j) and (i, j + 1)

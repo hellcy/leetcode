@@ -7,6 +7,13 @@
 // @lc code=start
 class Solution {
     public String countOfAtoms(String formula) {
+        /*
+            stack: store all atoms
+            stack2: store number for each atoms
+            tryAddName: when current character is not English letters or is Capital letters, try to add previous valid name to stack
+            tryAddNumber: when current character is not Number, try to add previous valid number to stack2
+            domultiply: when try add number, if we have found the back bracket ')', do not add number to stack2, instead, multiple the number in stack2 until we have found start bracket '('
+        */
         Map<String, Integer> map = new HashMap<>();
 
         Stack<String> stack = new Stack<>();
@@ -15,10 +22,8 @@ class Solution {
 
         int start = -1, end = -1;
         int startnum = -1, endnum = -1;
-        int depth = 0;
-        int count = 0;
         boolean found = false;
-        String prev = "";
+        
         for (int i = 0; i < cs.length; ++i) {
             char c = cs[i];
 
@@ -28,7 +33,6 @@ class Solution {
                     startnum = -1;
                 }
                 if (found) found = false;
-
             } else {
                 if (startnum == -1) startnum = i;
                 endnum = i + 1;
@@ -42,13 +46,7 @@ class Solution {
             }
 
             if (c >= 65 && c <= 90) {
-                if (start != -1) {
-                    stack.add(formula.substring(start, end));
-                    char next = formula.charAt(end);
-                    if (next < 48 || next > 57) {
-                        stack2.add(1);
-                    }
-                }
+                tryAddName(stack, stack2, start, end, formula);
                 start = i;
                 end = i + 1;
             } else if (c >= 97) {
@@ -66,7 +64,6 @@ class Solution {
         tryAddNumber(stack, stack2, startnum, endnum, formula, found);
         tryAddName(stack, stack2, start, end, formula);
 
-
         //System.out.println(stack);
         //System.out.println(stack2);
 
@@ -81,7 +78,7 @@ class Solution {
         }
 
         String ans = "";
-        System.out.println(map);
+        //System.out.println(map);
 
         String[] array = new String[map.size()];
 
@@ -135,8 +132,6 @@ class Solution {
     }
 
     private void domultiply(Stack<String> stack, Stack<Integer> stack2, int num) {
-        System.out.println(stack);
-        System.out.println(stack2);
         Stack<String> temp = new Stack<>();
         Stack<Integer> temp2 = new Stack<>();
         while (!stack.isEmpty() && !stack.peek().equals("(")) {

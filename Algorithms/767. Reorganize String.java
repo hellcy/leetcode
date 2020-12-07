@@ -1,14 +1,14 @@
-import java.util.Map;
-
-/*
- * @lc app=leetcode id=767 lang=java
- *
- * [767] Reorganize String
- */
-
-// @lc code=start
 class Solution {
     public String reorganizeString(String S) {
+        /*
+            Similar to question 1054
+            1. find the character with max time of occurance
+            2. rearrange the other chars in order: 
+                e.g. aaaaabbbcce
+                take out 'a', bbbcce is left
+                rearrage to: bcebcb
+                put a back from right to left: bcaeabacaba
+        */
         Map<Character, Integer> map = new HashMap<>();
         char[] cs = S.toCharArray();
 
@@ -43,6 +43,8 @@ class Solution {
                 map.remove(key);
             }
         }
+        
+        System.out.println(str.toString());
 
         int index = str.length();
         while (max > 0) {
@@ -53,5 +55,3 @@ class Solution {
         return str.toString();
     }
 }
-// @lc code=end
-

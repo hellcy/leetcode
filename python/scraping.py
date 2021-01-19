@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 from urllib.request import urlopen
 
-path = 'Problems - LeetCode.html'
+path = '(1) Problems - LeetCode.html'
 
 htmlfile = open(path, 'r', encoding='utf-8').read()
 
@@ -11,10 +11,11 @@ easy = 0
 medium = 0
 hard = 0
 soup = BeautifulSoup(htmlfile, features='lxml')
-table = soup.find('table', {"class": "table table-striped"})
+div = soup.find('div', {"class":"question-list-table"})
+table = div.find('table', {"class": "table table-striped"})
 rows = table.find_all('tr')
 for r in rows:
-	data = r.find_all('td', {"label": "[object Object]"})
+	data = r.find_all('td')
 	name = ""
 	number = ""
 	for td in data:

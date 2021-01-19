@@ -274,3 +274,34 @@ function closeCnButton(){
   var banner = document.querySelector('#cn-banner');
   banner.parentNode.removeChild(banner);
 }
+
+// contest flag problem
+renderCnFlags()
+
+function renderCnFlags(counter) {
+  counter = counter || 0
+  setTimeout(function() {
+    var result = replaceCnFlagUrls()
+    if (!result && counter < 20) {
+      renderCnFlags(counter + 1)
+    }
+  }, 500)
+}
+
+function replaceCnFlagUrls() {
+  var nodes = document.querySelectorAll('.contest-home-base .country-name span');
+  if (!nodes) {
+    return false;
+  }
+  nodes = document.querySelectorAll('.contest-home-base .country-name[data-original-title="中国"] span');
+  if (!nodes) {
+    return true;
+  }
+  for (var i = 0; i < nodes.length; i++) {
+    // sample:
+    // - before: url("https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/2.8.0/flags/4x3/.svg")
+    // - after: url("https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/2.8.0/flags/4x3/cn.svg")
+    nodes[i].style.backgroundImage = nodes[i].style.backgroundImage.replace(`/.svg")`, `/cn.svg")`)
+  }
+  return true
+}
